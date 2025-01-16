@@ -1,0 +1,12 @@
+[[Modulübersicht]]
+
+1. [[Induktion]]
+2. [[Wörter und Sprachen]]
+3. [[WHILE-Programme]]
+4. [[Berechenbarkeit]]
+5. [[Laufzeitanalyse]]
+6. [[PYTHON-Programme]]
+7. [[Deterministische endliche Automaten]]
+8. [[Nichtdeterministische endliche Automaten]]
+9. [[Reguläre Ausdrücke]]
+10. [[Reguläre Sprachen]]

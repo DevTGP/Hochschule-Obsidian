@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "0827955e43e41696",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50dd623c3acf82b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7edd3ca004115136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thematiken/Inhaltsverzeichnis.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Inhaltsverzeichnis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "41e0488f55c026f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e7845e1a3baa6f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
+            }
+          },
+          {
+            "id": "d6b646c090c84888",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac94e532c53a3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3dbca628ea4c752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56325d3c4bf0afc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "6fc550746730db52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2e14b19b47842da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60986ac96775e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc25a318d77d0de4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "78033c06b5306e09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweis"
+            }
+          },
+          {
+            "id": "bc81413191a4c9d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "58aa05aa1ea2a292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df6cdf589f9de7e2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "baf2f0cf0dff3c80",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3caa2c21ce6fd39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d1dbdb54821d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d6b646c090c84888",
+  "lastOpenFiles": [
+    "Thematiken/Inhaltsverzeichnis.md",
+    "Module/Technische Informatik/Modulübersicht.md",
+    "Module/Technische Informatik/Technische Informatik.md",
+    "Module/Technische Informatik/MIPS Pipelining.md",
+    "Thematiken/Theorie",
+    "Thematiken/Technik",
+    "Module/Technische Informatik/Instruction-Set.md",
+    "Module/Technische Informatik/Die Logik dahinter.md",
+    "Module/Technische Informatik/MIPS besondere Maschinenbefehle.md",
+    "Thematiken/Sprachen",
+    "Thematiken/Mathe",
+    "Thematiken",
+    "Module/Technische Informatik/MIPS weitere Maschinenbefehle auf der Hardware.md",
+    "Module/Technische Informatik/Boolesche Algebra.md",
+    "Module",
+    "Module/Technische Informatik/Datenpfade.md",
+    "Module/Technische Informatik/MIPS erste Maschinenbefehle auf der Hardware.md",
+    "Module/Technische Informatik/MIPS-Rechnerachitektur.md",
+    "Module/Technische Informatik/Latches und Flip-flops.md",
+    "Module/Technische Informatik/Fließkomma IEEE 754.md",
+    "Module/Technische Informatik/Negative Zahlen.md",
+    "Module/Technische Informatik/Binärsystem.md",
+    "Unbenannt.canvas",
+    "Module/Technische Informatik/Zahlendarstellung und Codes.md",
+    "Module/Technische Informatik/Gray-Code.md",
+    "Unbenannt 1.canvas",
+    "Module/Technische Informatik/Zwischen Compiler & Hardware.md",
+    "Module/Technische Informatik/Historie und Überblick.md",
+    "Module/Systemadministration/Systemadministration.md",
+    "Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
+    "Module/CS, .NET & Unity/CS, .NET & Unity.md",
+    "Module/IT-Sicherheit/IT-Sicherheit.md",
+    "Module/Grundlagen der Web-Technologien/Grundlagen der Web-Technologien.md",
+    "Module/Theoretische Informatik/Wörter und Sprachen",
+    "Module/Theoretische Informatik/WHILE-Programme",
+    "Module/Theoretische Informatik/Induktion",
+    "Module/Theoretische Informatik/Deterministische endliche Automaten",
+    "Excalidraw/Pasted image 20241105110833.png",
+    "Excalidraw/Pasted image 20241105110848.png",
+    "Excalidraw/Unbenannt.canvas"
+  ]
+}

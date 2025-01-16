@@ -1,0 +1,11 @@
+[[Technische Informatik]]
+
+1. [[Die Phasen der Befehlsabarbeitung]]
+2. [[MIPS Assembler]]
+3. [[Datenpfade und Steuerwerk]]
+4. [[Assembler-Befehle kennenlernen]]
+	1. [[lw]]
+	2. [[sw]]
+	3. [[add]]
+	4. [[sub]]
+5. [[Assembler Programm-Stücke]]
