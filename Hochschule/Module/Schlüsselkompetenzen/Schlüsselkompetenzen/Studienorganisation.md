@@ -14,7 +14,7 @@
 - Seminar
 - Teamprojekt
 - Lerngruppe
-- Selbststudtum
+- Selbststudium
 - Übung
 - Vorlesung
 - Tutorium

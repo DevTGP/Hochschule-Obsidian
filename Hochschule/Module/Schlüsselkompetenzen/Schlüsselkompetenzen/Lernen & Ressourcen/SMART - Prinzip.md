@@ -5,7 +5,7 @@
 - Methode hilft, Ziele klar zu formulieren
 - 5 Bedingungen für die Formulierung, erhöhen Erfolgschancen für die Zielerreichung
 
-#### S spezifisch
+#### S - spezifisch
 Lernziele so konkret und spezifisch wie möglich formulieren.
 
 >Spezifische Lernziele helfen zu bestimmen, welche Maßnahmen für die Zielerreichung notwendig sind und unterstützen, das Endergebnis zu definieren.

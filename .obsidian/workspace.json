@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "24f213c880addc0c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "075432b446a9d943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lernen & Ressourcen"
-            }
-          }
-        ]
-      },
-      {
         "id": "6977fbf29f778553",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "374da697e04fc72b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -188,34 +172,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "075432b446a9d943",
+  "active": "374da697e04fc72b",
   "lastOpenFiles": [
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement.md",
-    "Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen-ManuelNotebook.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement 1.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Schlüsselkompetenzen - Vorlesungsfolien.md",
-    "Hochschule/Module/Technische Informatik/Binärsystem.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Zeit- und Selbstmanagement.md",
     "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Ressourcenbezogene Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Kognitive Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Technologische Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Physische Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Organisatorische Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Emotionale und Motivationale Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Soziale und Umgebungsbedingte Herausforderungen.md",
     "README.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Individuelle Lernstile und Bedürfnisse.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Ressourcenbezogene Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen-ManuelNotebook.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Metakognitive Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Ressourcenbezogene Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md",
     "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Studienorganisation.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Sprachlich und kulturelle Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Kognitive Herausforderungen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Methode Lerntagebuch.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement.md",
+    "Hochschule/Module/Theoretische Informatik/Theoretische Informatik.md",
+    "Hochschule/Module/Technische Informatik/Modulübersicht.md",
+    "Hochschule/Module/Technische Informatik/Technische Informatik.md",
+    "Hochschule/Module/Technische Informatik/Negative Zahlen.md",
+    "Hochschule/Module/Technische Informatik/Zahlendarstellung und Codes.md",
+    "Hochschule/Module/Technische Informatik/Datenpfade.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Schlüsselkompetenzen - Vorlesungsfolien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Ressourcen/Modul_SK_WiSe24_25_V1_Studienorganisation.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/WOOP - Methode.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/SMART - Prinzip.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Kognitive Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Methode Lerntagebuch.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Definition selbstreguliertes Lernen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Definition Lernen.md",
+    "Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement 1.md",
+    "Hochschule/Module/Technische Informatik/Binärsystem.md",
     "Hochschule/create a link.pdf",
     "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen",
     "Hochschule/Thematiken/Theorie",
@@ -224,7 +209,6 @@
     "Hochschule/Thematiken/Mathe",
     "Hochschule/Thematiken",
     "Hochschule/Module/Theoretische Informatik/Induktion",
-    "Hochschule/Module/Theoretische Informatik/Wörter und Sprachen",
-    "Hochschule/Module/Theoretische Informatik/WHILE-Programme"
+    "Hochschule/Module/Theoretische Informatik/Wörter und Sprachen"
   ]
 }

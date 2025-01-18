@@ -37,4 +37,4 @@ Lernstoff veranschaulichen und vertiefen
 - Mnemotechniken
 	- Loci-Methode
 	- Chunking (Bsp.: Zahlenreihe 149217761945 wird in dir Jahreszahlen 1492, 1776 und 1945 aufgeteilt)
-	- Akronyme ([[SMART - Prinzip]]
+	- Akronyme ([[SMART - Prinzip]])
