@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Things"
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Courier New",
+  "textFontFamily": "Calibri",
+  "cssTheme": "Things",
+  "accentColor": "#664ce6"
 }

@@ -1,4 +1,5 @@
 [[Theoretische Informatik]]
+[[Beweisen mit vollständiger Induktion]]
 
 1. [[Induktionsanfang]]
 2. [[Induktionsvoraussetzung]]

@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "963d7a35810185a5",
+        "id": "24f213c880addc0c",
         "type": "tabs",
         "children": [
           {
-            "id": "afa65f6b3e578a89",
+            "id": "075432b446a9d943",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Lernen & Ressourcen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6977fbf29f778553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "374da697e04fc72b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
             }
           }
         ]
@@ -75,12 +95,11 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Erweiterung ist nicht mehr aktiv"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +182,49 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afa65f6b3e578a89",
+  "active": "075432b446a9d943",
   "lastOpenFiles": [
-    "create a link.pdf",
-    "Hochschule/create a link.md"
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement.md",
+    "Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen-ManuelNotebook.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Zeit- und Selbstmanagement 1.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Schlüsselkompetenzen - Vorlesungsfolien.md",
+    "Hochschule/Module/Technische Informatik/Binärsystem.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Zeit- und Selbstmanagement.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Ressourcenbezogene Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Kognitive Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Technologische Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Physische Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Organisatorische Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Emotionale und Motivationale Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Soziale und Umgebungsbedingte Herausforderungen.md",
+    "README.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Individuelle Lernstile und Bedürfnisse.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Ressourcenbezogene Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Studienorganisation.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Sprachlich und kulturelle Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Kognitive Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Methode Lerntagebuch.md",
+    "Hochschule/create a link.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen",
+    "Hochschule/Thematiken/Theorie",
+    "Hochschule/Thematiken/Technik",
+    "Hochschule/Thematiken/Sprachen",
+    "Hochschule/Thematiken/Mathe",
+    "Hochschule/Thematiken",
+    "Hochschule/Module/Theoretische Informatik/Induktion",
+    "Hochschule/Module/Theoretische Informatik/Wörter und Sprachen",
+    "Hochschule/Module/Theoretische Informatik/WHILE-Programme"
   ]
 }
