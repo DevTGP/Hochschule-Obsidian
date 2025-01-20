@@ -2,6 +2,7 @@
 
 ---
 
+# Definition
 >Kognitive Lernstrategien haben im Allgemeinen mit der direkten Steuerung des Lernprozesses zu tun.
 >
 >Die kognitiven Lernstrategien beziehen sich auf die direkte Verarbeitung von Lernmaterialien, um sie besser zu verstehen, um Gedächtnis zu behalten und auch wieder abrufen zu können.
@@ -9,7 +10,7 @@
 - [Wiederholen](#wiederholung)
 - [Elaboration](#elaboration)
 
-## Organisation
+# Organisation
 Stoff auf das Wesentlich reduzieren und visualisieren
 
 - Informationen beschaffen und filtern
@@ -18,7 +19,7 @@ Stoff auf das Wesentlich reduzieren und visualisieren
 - Mapping-Techniken (Mindmaps, Concept Maps)
 - Visualisierungen, Tabellen und Grafiken / Diagramme
 
-## Wiederholung
+# Wiederholung
 durch Wiederholen Gelerntes ins Langzeitgedächtnis
 
 - Karteikarten
@@ -27,7 +28,7 @@ durch Wiederholen Gelerntes ins Langzeitgedächtnis
 - wiederholtes Lesen (Skript, Zusammenfassungen, Lernzettel)
 - wiederholtes Anschauen von (Vorlesungs-) Videos
 
-## Elaboration
+# Elaboration
 Lernstoff veranschaulichen und vertiefen
 
 - Selbst-Erklärungen, Eselsbrücken
