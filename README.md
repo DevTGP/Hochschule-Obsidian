@@ -42,4 +42,4 @@ Nach letzten Messungen beinhaltet der Ordner:
 | Notizen            |      116 |
 | Verlinkungen       |      562 |
 | Wörter             |    4.623 |
-| Zeichen            |   42.347 |
+| Zeichen            |   42.971 |
