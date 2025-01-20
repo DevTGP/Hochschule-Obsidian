@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "24f213c880addc0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f02bcb26a662778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
         "id": "6977fbf29f778553",
         "type": "tabs",
         "children": [
@@ -11,34 +31,10 @@
             "id": "374da697e04fc72b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hochschule/Module/Technische Informatik/Inhalte/Binärsystem.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Binärsystem"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eab3b5e2732d980f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc2f17ba7ced01e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
             }
           }
         ]
@@ -99,15 +95,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Erweiterung ist nicht mehr aktiv"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 501.5
   },
   "right": {
     "id": "3c4bed34bd8e53d6",
@@ -123,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweis"
+              "title": "Rückverweise für README"
             }
           },
           {
@@ -166,12 +163,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,49 +186,52 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19478d0738a19318",
+  "active": "8f02bcb26a662778",
   "lastOpenFiles": [
-    "Hochschule/Module/Theoretische Informatik/Inhalte",
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
-    "Hochschule/Module/Technische Informatik/Inhalte",
     "README.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen-ManuelNotebook.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Metakognitive Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Ressourcenbezogene Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Zeit- und Selbstmanagement.md",
-    "Hochschule/Module/Theoretische Informatik/Theoretische Informatik.md",
-    "Hochschule/Module/Technische Informatik/Inhalte/Modulübersicht.md",
-    "Hochschule/Module/Technische Informatik/Technische Informatik.md",
-    "Hochschule/Module/Technische Informatik/Inhalte/Negative Zahlen.md",
-    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes.md",
-    "Hochschule/Module/Technische Informatik/Inhalte/Datenpfade.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen/Lernen & Ressourcen/Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Schlüsselkompetenzen - Vorlesungsfolien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V1_Studienorganisation.pdf",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/WOOP - Methode.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/SMART - Prinzip.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Kognitive Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Methode Lerntagebuch.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Lernblockaden.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Prüfungsangst.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fokus auf kurzfristigem Lernen.md",
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Definition selbstreguliertes Lernen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Metakognitive Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Ablenkungen & Konzentrationsprobleme.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Schriftliche Prüfungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Zeitmanagement & Prokrastination.md",
+    "Hochschule/Module/Technische Informatik/Inhalte/Gray-Code.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fehlende Struktur & Methoden.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Überforderung durch den Stoffumfang.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mangelnde Unterstützung & Ressourcen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Unrealistische Erwartungen & Druck.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Gesundheitliche Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mündliche Prüfungen.md",
+    "Hochschule/Inhaltsverzeichnis.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Schlüsselkompetenzen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Ressourcenbezogene Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Sprachlich und kulturelle Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Kognitive Herausforderungen.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Kognitive Lernstrategien.md",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md",
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Definition Lernen.md",
-    "Lernstrategien.md",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Zeit- und Selbstmanagement 1.md",
-    "Hochschule/create a link.pdf",
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte",
-    "Hochschule/Thematiken/Theorie",
-    "Hochschule/Thematiken/Technik",
-    "Hochschule/Thematiken/Sprachen",
-    "Hochschule/Thematiken/Mathe",
-    "Hochschule/Thematiken"
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Zeitprotokoll Beispiel.png",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/GANTT-Chart Beispiel.png",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V8_Pruefungsvorbereitung.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V4_Lernen.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V5_Zeitmanagement.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V2_Studienorganisation.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V2_Studienorganisation.pdf~RF1807d52.TMP",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md~RF180787f.TMP",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V3_Lernen.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V1_Studienorganisation.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Eisenhower_Prinzip_Graph.png",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V6_Zeitmanagement.pdf",
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V7_Pruefungsvorbereitung.pdf"
   ]
 }

@@ -2,7 +2,7 @@
 
 ---
 
-## Kategorien der Do's and Don'ts
+# Kategorien der Do's and Don'ts
 - Studierfähigkeit & Lernverhalten
 - Studienorganisation & Zeitmanagement
 - Soziale Kompetenzen
@@ -10,7 +10,7 @@
 - Ethik & Integrität
 - Lernumfeld, Fachbereich & Hochschule
 
-## Organisationsformen des studentischen Lernens
+# Organisationsformen des studentischen Lernens
 - Seminar
 - Teamprojekt
 - Lerngruppe
@@ -19,7 +19,7 @@
 - Vorlesung
 - Tutorium
 
-## Lesetechniken
+# Lesetechniken
 - Orientierendes Lesen
 - Kursorisches Lesen
 - Überfliegendes Lesen
@@ -27,8 +27,7 @@
 - Selektives Lesen
 - [[SQ3R-Methode]]
 
-
-## Methoden zum Anfertigen von Mitschriften
+# Methoden zum Anfertigen von Mitschriften
 - Lineare Methode
 - Cornell Methode
 - Outline Methode

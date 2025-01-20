@@ -2,6 +2,7 @@
 
 ---
 
+# Definition
 >Die metakognitiven Lernstrategien beziehen sich auf die Planung, Überwachung und Regulation der eigenen Lernaktivitäten.
 >
 >Dies umfasst, Lernziele zu setzen, den eigenen Lernfortschritt zu überwachen, Strategien zur Problemlösung anzuwenden und auch die Effektivität der eigenen Lernmethoden ehrlich zu bewerten.
@@ -9,10 +10,10 @@
 - [Überwachung](#überwachung)
 - [Regulation](#regulation)
 
-### [[SMART - Prinzip]]
-### [[WOOP - Methode]]
+## [[SMART - Prinzip]]
+## [[WOOP - Methode]]
 
-## Planung
+# Planung
 Was gehört zu einer guten Planung dazu?
 
 - Lernziele setzen
@@ -27,16 +28,16 @@ Was gehört zu einer guten Planung dazu?
 	- Wie viel Zeit habe ich zum Lernen?
 	- Wie viel Zeit benötige ich zum Lernen?
 
-## Überwachung
+# Überwachung
 Zeitpunkte auswählen, um zu überprüfen
 
 - Funktioniert das Lernen überhaupt? (eigenen Lernfortschritt überprüfen)
 - Bin ich noch im Zeitplan? (Soll- / Ist-Vergleich)
 - Kann ich alles, was ich bisher gelernt habe, auch tatsächlich wiedergeben oder anwenden? (Feedback von Kommilitonen oder Lerngruppe)
 
-## Regulation
+# Regulation
 - Anpassung der Lernstrategien
 - Pausen einplanen
 - Selbstreflexion (Was hat gut funktioniert und was weniger gut?)
 - Zeitmanagement anpassen
-- Emotionsregulation (Stressbewältigung, Lernblockaden lösen)
+- Emotionsregulation (Stressbewältigung, [[Lernblockaden]] lösen)
