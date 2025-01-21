@@ -1,12 +1,7 @@
-Die lineare Methode ist eine von mehreren Methoden zur Anfertigung von Mitschriften. Bei dieser Methode werden Notizen in einer fortlaufenden, linearen Reihenfolge von oben nach unten auf einer Seite gemacht. Informationen werden in klaren, zusammenhängenden Sätzen oder Stichpunkten in Listenform notiert. Verschiedene Abschnitte oder Unterpunkte werden durch Einrückungen, Nummerierungen oder Aufzählungszeichen gekennzeichnet, um die Informationen zu strukturieren.
+> [!NOTE]
+> 
+> Die lineare Methode ist eine von mehreren Methoden zur Anfertigung von Mitschriften. Bei dieser Methode werden Notizen in einer fortlaufenden, linearen Reihenfolge von oben nach unten auf einer Seite gemacht. Informationen werden in klaren, zusammenhängenden Sätzen oder Stichpunkten in Listenform notiert. Verschiedene Abschnitte oder Unterpunkte werden durch Einrückungen, Nummerierungen oder Aufzählungszeichen gekennzeichnet, um die Informationen zu strukturieren.
 
 Die lineare Methode ist eine von mehreren Mitschriftmethoden, die für die Vor- und Nachbereitung von Lehrveranstaltungen verwendet werden können. Es gibt noch andere Methoden wie die Cornell-Methode, die Outline-Methode und das Verwenden von Flussdiagrammen und Visualisierungen. Es wird empfohlen, verschiedene Methoden zu kombinieren und anzupassen, um eine individuelle Herangehensweise zu entwickeln, die den eigenen Bedürfnissen am besten entspricht. Die Mitschriften sollten eine gute Kombination aus Text, Code und Visualisierungen sein.
-
-Weitere Details zu Mitschriftmethoden:
-
-- **Lineare Methode**: Notizen werden fortlaufend von oben nach unten geschrieben, oft in Form von Stichpunkten, Sätzen, Listen.
-- **Cornell-Methode**: Die Seite wird in drei Abschnitte unterteilt: einen schmalen linken Rand für Schlüsselwörter oder Fragen, einen größeren rechten Abschnitt für Hauptnotizen und einen unteren Abschnitt für eine Zusammenfassung.
-- **Outline-Methode**: Informationen werden hierarchisch strukturiert, wobei Hauptthemen und Unterpunkte mit Details dargestellt werden. Diese Methode eignet sich gut für die Nachbereitung.
-- **Flussdiagramme und Visualisierungen**: Diese sind besonders in der Informatik hilfreich, um komplexe Themen oder Prozesse ohne viel Text zu veranschaulichen.
 
 Es wird empfohlen, Mitschriften während der Lehrveranstaltungen systematisch und gut strukturiert anzufertigen. Dabei sollen klare Stichpunkte, Schlüsselbegriffe und Beispiele verwendet werden, wobei man sich auf die Hauptpunkte konzentrieren sollte, um auch aktiv zuhören zu können. Die Mitschriften sollten so organisiert sein, dass sie später leicht zu überprüfen und zu wiederholen sind.

@@ -1,10 +1,11 @@
 Die Outline-Methode ist eine **Methode zur Anfertigung von Mitschriften, bei der Informationen hierarchisch strukturiert werden**. Diese Methode eignet sich besonders gut, um **komplexe Themen zu gliedern**.
 
-**Struktur der Outline-Methode:**
-
-- **Hauptthema:** Das Hauptthema oder der Hauptpunkt wird an oberster Stelle aufgeführt und bildet die Grundlage für die gesamte Outline.
-- **Unterpunkte/Unterthemen:** Unterhalb des Hauptthemas werden Unterpunkte oder Unterthemen aufgelistet, die das Hauptthema weiter spezifizieren. Diese Unterpunkte können in einer hierarchischen Struktur angeordnet sein und weitere Unterteilungen enthalten.
-- **Details/Informationen:** Unterhalb der Unterpunkte werden einzelne Details oder Informationen aufgeführt, die während der Vorlesung oder des Vortrags mitgeschrieben werden und zu jedem einzelnen Unterpunkt gehören. Diese Details können weiter spezifiziert, erklärt oder durch Beispiele ergänzt werden.
+> [!NOTE]
+> **Struktur der Outline-Methode:**
+> 
+> - **Hauptthema:** Das Hauptthema oder der Hauptpunkt wird an oberster Stelle aufgeführt und bildet die Grundlage für die gesamte Outline.
+> - **Unterpunkte/Unterthemen:** Unterhalb des Hauptthemas werden Unterpunkte oder Unterthemen aufgelistet, die das Hauptthema weiter spezifizieren. Diese Unterpunkte können in einer hierarchischen Struktur angeordnet sein und weitere Unterteilungen enthalten.
+> - **Details/Informationen:** Unterhalb der Unterpunkte werden einzelne Details oder Informationen aufgeführt, die während der Vorlesung oder des Vortrags mitgeschrieben werden und zu jedem einzelnen Unterpunkt gehören. Diese Details können weiter spezifiziert, erklärt oder durch Beispiele ergänzt werden.
 
 **Anwendung:**
 

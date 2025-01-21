@@ -20,16 +20,23 @@
 - Tutorium
 
 ## Lesetechniken
-- Orientierendes Lesen
-- Kursorisches Lesen
+- [[Orientierendes Lesen]]
+- [[Kursorisches Lesen]]
 - Überfliegendes Lesen
 - Suchendes Lesen
 - Selektives Lesen
 - [[SQ3R-Methode]]
 
+<<<<<<< Updated upstream
 
 ## Methoden zum Anfertigen von Mitschriften
 - Lineare Methode
 - Cornell Methode
 - Outline Methode
+=======
+# Methoden zum Anfertigen von Mitschriften
+- [[Lineare Methode]]
+- [[Cornell Methode]]
+- [[Outline Methode]]
+>>>>>>> Stashed changes
 - Flussdiagramme und Visualisierungen

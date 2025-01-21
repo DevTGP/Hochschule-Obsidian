@@ -1,8 +1,10 @@
-Die Cornell-Methode ist eine **strukturierte Methode zur Anfertigung von Mitschriften**, die speziell dafür entwickelt wurde, Informationen während einer Vorlesung oder eines Vortrags effektiv zu organisieren und zu verarbeiten. Bei dieser Methode wird das Papier oder die digitale Datei in drei Abschnitte unterteilt. Diese Abschnitte dienen unterschiedlichen Zwecken:
-
-*   Ein **kleiner Abschnitt am linken Rand** (ungefähr ein Viertel der Seite) ist für **Schlüsselwörter oder Fragen** reserviert.
-*   Ein **größerer Abschnitt auf der rechten Seite** (etwa die Hälfte der Seite) dient zur Aufnahme der **Hauptnotizen** während der Vorlesung oder Übung.
-*   Ein **unterer Abschnitt am Ende der Seite** (ungefähr ein Viertel der Seite) ist für eine **Zusammenfassung** vorgesehen, die nach der Vorlesung oder bei der Nachbereitung erstellt wird.
+> [!NOTE]
+> Die Cornell-Methode ist eine **strukturierte Methode zur Anfertigung von Mitschriften**, die speziell dafür entwickelt wurde, Informationen während einer Vorlesung oder eines Vortrags effektiv zu organisieren und zu verarbeiten. Bei dieser Methode wird das Papier oder die digitale Datei in drei Abschnitte unterteilt. Diese Abschnitte dienen unterschiedlichen Zwecken:
+> 
+> *   Ein **kleiner Abschnitt am linken Rand** (ungefähr ein Viertel der Seite) ist für **Schlüsselwörter oder Fragen** reserviert.
+> *   Ein **größerer Abschnitt auf der rechten Seite** (etwa die Hälfte der Seite) dient zur Aufnahme der **Hauptnotizen** während der Vorlesung oder Übung.
+> *   Ein **unterer Abschnitt am Ende der Seite** (ungefähr ein Viertel der Seite) ist für eine **Zusammenfassung** vorgesehen, die nach der Vorlesung oder bei der Nachbereitung erstellt wird.
+> 
 
 Zusätzlich sollte am oberen Rand der Seite das Datum, der Name der Lehrveranstaltung und die Seitennummer notiert werden.
 
