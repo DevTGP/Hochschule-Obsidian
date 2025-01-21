@@ -2,3 +2,4 @@
 
 ---
 
+[[Pareto Prinzip]]

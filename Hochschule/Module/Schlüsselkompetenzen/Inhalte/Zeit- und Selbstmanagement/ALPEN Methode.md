@@ -1,0 +1,11 @@
+Die ALPEN-Methode ist eine **Strategie für die Tagesplanung**, die dir hilft, deine Aufgaben und Termine effizient zu organisieren. Sie ist ein **einfaches und effektives Werkzeug**, um den Tag zu strukturieren und sicherzustellen, dass du deine wichtigsten Aufgaben erledigst. Der Name ALPEN ist ein Akronym, bei dem jeder Buchstabe für einen Schritt in der Planung steht:
+
+> [!NOTE]
+> - **A - Aufgaben notieren:** Am Anfang des Tages schreibst du alle **Aufgaben und Termine auf, die an diesem Tag anstehen**. Dies kann eine To-Do-Liste sein oder eine ähnliche Form der Erfassung. Es ist wichtig, dass du alle Aufgaben **möglichst konkret formulierst**.
+> - **L - Länge einschätzen:** Schätze für jede Aufgabe **die benötigte Zeit**. Sei dabei realistisch und berücksichtige, dass unerwartete Dinge passieren können.
+> - **P - Pufferzeiten einplanen:** Plane **Pufferzeiten** ein. Das bedeutet, dass du **nicht jede Minute des Tages verplanst**, sondern Zeit für Unvorhergesehenes und Pausen lässt. Es ist wichtig, **Pausen** einzuplanen, um konzentriert und produktiv arbeiten zu können.
+> - **E - Entscheidungen treffen:** **Priorisiere** die Aufgaben, die du erledigen musst. Entscheide, welche Aufgaben wichtig und dringend sind und welche du eventuell verschieben oder delegieren kannst. Hier können das Eisenhower-Prinzip oder das Pareto-Prinzip helfen. **Konzentriere dich auf die wichtigsten Aufgaben** und vernachlässige nicht die weniger wichtigen, da diese sich sonst anhäufen.
+> - **N - Nachkontrolle:** Am Ende des Tages überprüfst du, was du geschafft hast und was noch offen ist. Reflektiere deinen Tag und passe deine Planung für den nächsten Tag an. Überprüfe, ob du deine Aufgaben wie geplant erledigen konntest und was du eventuell besser machen könntest.
+> 
+
+Die ALPEN-Methode ist eine **flexible Methode**, die du an deine Bedürfnisse anpassen kannst. Sie kann sowohl für die **Tagesplanung** im Studium als auch für andere Lebensbereiche verwendet werden. Sie hilft dir, deine **Zeit bewusster einzuteilen**, **Stress zu reduzieren** und **deine Ziele effektiver zu erreichen**. Die Methode ist auch ein Bestandteil des **Zeitmanagements** und wird im Modul Schlüsselkompetenzen gelehrt.
