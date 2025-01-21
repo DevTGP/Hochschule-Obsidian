@@ -18,3 +18,4 @@
 .obsidian/community-plugins.json
 .obsidian/appearance.json
 .obsidian/app.json
+*.json
