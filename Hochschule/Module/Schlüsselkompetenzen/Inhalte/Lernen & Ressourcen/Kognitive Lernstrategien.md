@@ -5,13 +5,13 @@
 # Definition
 >Kognitive Lernstrategien haben im Allgemeinen mit der direkten Steuerung des Lernprozesses zu tun.
 >
->Die kognitiven Lernstrategien beziehen sich auf die direkte Verarbeitung von Lernmaterialien, um sie besser zu verstehen, um Gedächtnis zu behalten und auch wieder abrufen zu können.
-- [Organisation](#organisation)
-- [Wiederholen](#wiederholung)
-- [Elaboration](#elaboration)
+>Die kognitiven Lernstrategien beziehen sich auf die direkte Verarbeitung von Lernmaterialien, um sie besser zu verstehen, im Gedächtnis zu behalten und auch wieder abrufen zu können.
+- [[#Organisation]]
+- [[#Wiederholung]]
+- [[#Elaboration]]
 
 # Organisation
-Stoff auf das Wesentlich reduzieren und visualisieren
+Stoff auf das Wesentliche reduzieren und visualisieren
 
 - Informationen beschaffen und filtern
 - effektiv lesen, hervorheben, verdichten, gliedern (Beispiel [[SQ3R-Methode]])

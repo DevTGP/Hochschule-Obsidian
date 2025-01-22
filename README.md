@@ -32,6 +32,22 @@ noch nicht existent, also am besten fragen oder nachschauen, wie ist im main Bra
 
 ---
 
+# Cheat Sheets
+
+## Markdown
+- [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/#html)
+- [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)
+- [Hacks | Markdown Guide](https://www.markdownguide.org/hacks/)
+
+## LaTex Suite
+- [artisticat1/obsidian-latex-suite: Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements](https://github.com/artisticat1/obsidian-latex-suite)
+- [LaTeX: Mathematische Symbole einfügen | heise online](https://www.heise.de/tipps-tricks/LaTeX-Mathematische-Symbole-einfuegen-4996350.html)
+- [LaTeX: Sonderzeichen einfügen - so geht's | heise online](https://www.heise.de/tipps-tricks/LaTeX-Sonderzeichen-einfuegen-so-geht-s-4366201.html)
+- [📋 Propositional Logic symbols & their LaTeX formulas specifically for Obsidian flavor Markdown](https://gist.github.com/zudsniper/fe553bc6a4ee94fcdd74bf4eb0722043)
+ 
+
+---
 # Stats for Nerds
 Nach letzten Messungen beinhaltet der Ordner:
 

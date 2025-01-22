@@ -2,7 +2,7 @@
 
 ---
 
-# Allgemein
+# **Allgemein**
 >Studierende stehen vor der Aufgabe, den prüfungsrelevanten Stoff eigenständig einzugrenzen und zu strukturieren sowie die Prüfungsvorbereitung zu gestalten.
 
 1. [[#Prüfungsformen]]
@@ -10,7 +10,7 @@
 3. [[#Prüfungsherausforderungen]]
 
 ---
-# Prüfungsformen
+# **Prüfungsformen**
 - [[Schriftliche Prüfungen]]
   >typischerweise Klausuren oder Multiple-Choice-Tests
   
@@ -26,7 +26,7 @@
 - Projektarbeiten
 	>Gruppen- oder Einzelprojekte, die oft über einen längeren Zeitraum durchgeführt werden
 	
-# Lernprozess gestalten
+# **Lernprozess gestalten**
 ## Überblickphase
 1. Strategie bestimmen
 2. in den Lernmodus umschalten
@@ -43,7 +43,7 @@
 1. taktieren
 2. reflektieren
 
-# Prüfungsherausforderungen
+# **Prüfungsherausforderungen**
 - [[Zeitmanagement & Prokrastination]]
 - [[Überforderung durch den Stoffumfang]]
 - [[Fehlende Struktur & Methoden]]

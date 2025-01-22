@@ -2,7 +2,6 @@
 
 ---
 
-# SQ3R - Methode
 
 Die SQ3R Methode ist eine Lesetechnik:
 

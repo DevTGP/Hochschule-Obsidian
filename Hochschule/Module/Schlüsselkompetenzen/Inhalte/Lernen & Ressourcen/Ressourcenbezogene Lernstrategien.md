@@ -6,12 +6,10 @@
 > Die ressourcenbezogenen Lernstrategien setzen beim Zeitmanagement und der Selbstorganisation an.
  Ressourcenbezogene Lernstrategien beziehen sich auf die Nutzung interner und externer Ressourcen.
  
-
-# Interne Ressourcen
+# Interne Ressourcen0
  - Emotion
  - Motivation
  - Zeitmanagement
-
 
  ## Externe Ressourcen
  
