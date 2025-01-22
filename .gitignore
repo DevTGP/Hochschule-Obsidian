@@ -1,21 +1,2 @@
 
-.obsidian/vault-stats.json
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/graph.json
-.obsidian/vault-stats.json
-.obsidian/plugins/table-editor-obsidian/data.json
-.obsidian/plugins/obsidian-excalidraw-plugin/data.json
-.obsidian/graph.json
-.obsidian/appearance.json
-.obsidian/app.json
-.obsidian/vault-stats.json
-.obsidian/plugins/table-editor-obsidian/data.json
-.obsidian/plugins/obsidian-excalidraw-plugin/data.json
-.obsidian/graph.json
-.obsidian/appearance.json
-.obsidian/app.json
-.obsidian/workspace.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/plugins/novel-word-count/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/*
