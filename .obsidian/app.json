@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoConvertHtml": true
 }

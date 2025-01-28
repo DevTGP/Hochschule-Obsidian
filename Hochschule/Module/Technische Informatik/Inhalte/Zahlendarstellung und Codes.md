@@ -1,10 +1,12 @@
 [[Technische Informatik]]
 
+---
+
 1. [[Steinzeit]]
 2. [[Römer]]
-3. [[Dezimal]]
+3. [[Dezimalsystem]]
 4. [[Binärsystem]]
-5. [[Octalsystem]]
+5. [[Oktalsystem]]
 6. [[Hexadezimalsystem]]
 7. [[Umrechnungsverfahren]]
 8. [[Binary Coded Decimal]]

@@ -35,6 +35,7 @@ noch nicht existent, also am besten fragen oder nachschauen, wie ist im main Bra
 # Cheat Sheets
 
 ## Markdown
+- [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 - [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 - [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/#html)
 - [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)
@@ -51,11 +52,11 @@ noch nicht existent, also am besten fragen oder nachschauen, wie ist im main Bra
 # Stats for Nerds
 Nach letzten Messungen beinhaltet der Ordner:
 
-| Speicherplatz      | 11.65 MB |
+| Speicherplatz      | 11.68 MB |
 | ------------------ | -------: |
-| Dateien            |      127 |
+| Dateien            |      153 |
 | Angehängte Dateien |       11 |
-| Notizen            |      116 |
-| Verlinkungen       |      562 |
-| Wörter             |    4.623 |
-| Zeichen            |   42.971 |
+| Notizen            |      142 |
+| Verlinkungen       |      648 |
+| Wörter             |    7.898 |
+| Zeichen            |   76.938 |
