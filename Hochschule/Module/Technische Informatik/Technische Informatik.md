@@ -5,7 +5,7 @@
 1. [[Historie und Überblick]]
 2. [[Zwischen Compiler & Hardware]]
 3. [[Zahlendarstellung und Codes]]
-4. [[Negative Zahlen]]
+4. [[Negative Binärzahlen]]
 5. [[Fließkomma IEEE 754]]
 6. [[Boolesche Algebra]]
 7. [[Latches und Flip-flops]]
