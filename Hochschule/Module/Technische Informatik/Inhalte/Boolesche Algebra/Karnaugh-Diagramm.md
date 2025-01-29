@@ -2,7 +2,7 @@
 
 ---
 
-> [!info] Definition
+> [!check] Definition
 > Ein **Karnaugh-Diagramm (K-Map)** ist eine tabellarische Darstellung einer booleschen Funktion zur visuellen Minimierung logischer Ausdrücke.
 > - Es ordnet Wahrheitswerte in einer **2D-Tabelle** an, wobei benachbarte Felder sich nur in **einem Bit** unterscheiden.
 > - Einsen werden gruppiert in **Potenzen von 2** (1, 2, 4, 8 …), um Terme zu reduzieren.

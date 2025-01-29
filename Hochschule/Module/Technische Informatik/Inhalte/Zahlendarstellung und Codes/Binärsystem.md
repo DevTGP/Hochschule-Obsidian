@@ -25,6 +25,4 @@
 > ![[Binärsystem Division#^main]]
 
 > [!question] Konvertierung
-> - [[Binärsystem nach Dezimalsystem]]
-> - [[Binärsystem nach Oktalsystem]]
-
+> ![[Umrechnungsverfahren#^binary]]

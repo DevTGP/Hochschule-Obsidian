@@ -3,7 +3,7 @@
 
 ---
 
-> [!info] Definition
+> [!check] Definition
 > **Sum of Products (SOP)** ist eine Darstellungsform boolescher Funktionen als **ODER-Verknüpfung von UND-Termen**.
 
 > [!tip] Darstellung

@@ -15,4 +15,4 @@
 > ![[Oktalsystem Division#^main]]
 
 > [!question] Konvertierung
-> - [[Oktalsystem nach Binärsystem]]
+> ![[Umrechnungsverfahren#^oktalsystem]]

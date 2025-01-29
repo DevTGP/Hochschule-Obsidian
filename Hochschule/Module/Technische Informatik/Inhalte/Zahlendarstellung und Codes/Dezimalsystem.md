@@ -15,4 +15,4 @@
 > ![[Dezimalsystem Division#^main]]
 
 > [!question] Konvertierung
-> - [[Dezimalsystem nach Binärsystem]]
+> ![[Umrechnungsverfahren#^dezimalsystem]]

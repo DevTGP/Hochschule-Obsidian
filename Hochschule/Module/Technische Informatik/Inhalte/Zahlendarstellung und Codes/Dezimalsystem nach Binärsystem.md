@@ -1,3 +1,4 @@
+[[Umrechnungsverfahren]]
 [[Dezimalsystem]] | [[Binärsystem]]
 [[Dezimalsystem nach Binärsystem]]
 

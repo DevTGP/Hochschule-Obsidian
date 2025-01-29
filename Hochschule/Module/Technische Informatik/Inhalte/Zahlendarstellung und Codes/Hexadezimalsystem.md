@@ -15,5 +15,4 @@
 > ![[Hexadezimalsystem Division#^main]]
 
 > [!question] Konvertierung
-> - [[Hexadezimalsystem nach Dezimalsystem]]
-> - [[Hexadezimalsystem nach Binärsystem]]
+> ![[Umrechnungsverfahren#^hexadezimalsystem]]

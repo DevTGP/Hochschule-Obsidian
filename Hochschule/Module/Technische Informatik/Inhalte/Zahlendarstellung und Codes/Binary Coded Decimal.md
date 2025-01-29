@@ -13,5 +13,4 @@
 > Die Zahl 93 wird als 1001 0011 im BCD dargestellt.
 
 > [!question] Konvertierung
-> - [[BCD nach Dezimalsystem]]
-> - [[BCD nach Hexadezimalsystem]]
+> ![[Umrechnungsverfahren#^bcd]]

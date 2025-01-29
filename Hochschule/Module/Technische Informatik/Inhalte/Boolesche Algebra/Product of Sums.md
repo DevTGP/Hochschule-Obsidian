@@ -3,7 +3,7 @@
 
 ---
 
-> [!info] Definition
+> [!check] Definition
 > **Product of Sums (POS)** ist eine Darstellungsform boolescher Funktionen als **UND-Verknüpfung von ODER-Termen**.
 
 > [!tip] Darstellung
