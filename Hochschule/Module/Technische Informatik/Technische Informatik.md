@@ -2,20 +2,21 @@
 
 ---
 
-1. [[Historie und Überblick]]
-2. [[Zwischen Compiler & Hardware]]
-3. [[Zahlendarstellung und Codes]]
-4. [[Negative Binärzahlen]]
-5. [[Fließkomma IEEE 754]]
-6. [[Boolesche Algebra]]
-7. [[Latches und Flip-flops]]
-8. [[MIPS-Rechnerachitektur]]
-9. [[MIPS erste Maschinenbefehle auf der Hardware]]
-10. [[Datenpfade]]
-11. [[MIPS weitere Maschinenbefehle auf der Hardware]]
-12. [[MIPS besondere Maschinenbefehle]]
-13. [[Linker und Loader]]
-14. [[Die Logik dahinter]]
-15. [[Instruction-Set]]
-16. [[MIPS Pipelining]]
-17. [[Virtueller Speicher und Caches]]
+1. [[Zahlendarstellung und Codes]]
+2. [[Negative Binärzahlen]]
+3. [[Fließkomma IEEE 754]]
+4. [[Boolesche Algebra]]
+9. [[Latches und Flip-flops]]
+5. [[MIPS-Rechnerarchitektur]]
+6. [[Assembler]]
+
+--- 
+
+
+---
+
+7. [[Historie und Überblick]]
+8. [[Zwischen Compiler & Hardware]]
+10. [[Linker und Loader]]
+11. [[MIPS Pipelining]]
+12. [[Virtueller Speicher und Caches]]

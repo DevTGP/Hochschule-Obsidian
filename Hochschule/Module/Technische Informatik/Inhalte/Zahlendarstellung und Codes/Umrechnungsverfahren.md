@@ -18,6 +18,7 @@
 
 > [!info] [[Hexadezimalsystem]] 
 > - [[Hexadezimalsystem nach Binärsystem]]
+> - [[Hexadezimalsystem nach Dezimalsystem]]
 >^hexadezimalsystem
 
 > [!info] [[Oktalsystem]] 
