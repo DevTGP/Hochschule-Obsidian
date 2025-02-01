@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "defaultViewMode": "preview"
 }
