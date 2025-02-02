@@ -1,4 +1,4 @@
-[[Technische Informatik]]
+[[Technische Datentypen]]
 [[Binärsystem#^negative-zahlen]]
 
 ---

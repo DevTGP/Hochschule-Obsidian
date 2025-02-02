@@ -13,9 +13,12 @@
 > 8. [[Assembler]]
 
 # TO-DO
-- Komponenten eines Digitalrechners
-- MIPS-Rechnerarchitektur
-- Systemkomponenten
+- Komponenten eines Digitalrechners (alles)
+- MIPS-Rechnerarchitektur (Ausführung)
+- Latches und FlipFlops (einige Punkte)
+- Zahlendarstellungen (einige Umwandlungen)
+- Codes (einige Punkte)
+- Assembler (alles)
 
 ---
 

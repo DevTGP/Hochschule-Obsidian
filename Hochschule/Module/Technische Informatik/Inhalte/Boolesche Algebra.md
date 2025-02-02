@@ -22,5 +22,3 @@
 > 2. [[Multiplikationsregeln]]
 > 3. [[Algebraische Umformungen]]
 > 4. [[Minimierungstechniken]]
-> 5. [[Universelle Gatter]]
-> 6. [[PLAs]]
