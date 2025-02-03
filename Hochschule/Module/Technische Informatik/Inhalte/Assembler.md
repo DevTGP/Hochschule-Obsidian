@@ -1,4 +1,0 @@
-[[Technische Informatik]]
-
----
-

@@ -12,8 +12,7 @@
 > 	3. [[NOT-Gatter]]
 > 	4. [[NAND-Gatter]]
 > 	5. [[NOR-Gatter]]
-> 2. [[Latches und Flip-flops]]
-> 3. Erweiterte Gatter
+> 2. Erweiterte Gatter
 > 	1. [[7-Segment-Anzeige]]
 > 	2. [[4-Bit Vergleicher]]
 > 	3. [[Multiplexer]]
@@ -24,3 +23,4 @@
 > 	8. [[Voll-Addierer]]
 > 	9. [[Ripple-Carry-Addierer]]
 > 	10. [[Serien-Addierer]]
+> 3. [[Latches und Flip-flops]]

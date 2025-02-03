@@ -1,6 +1,7 @@
 [[Umrechnungsverfahren]]
 [[Dezimalsystem]] | [[Binärsystem]]
-[[Dezimalsystem nach Binärsystem]]
+[[Binärsystem nach Dezimalsystem]]
+[[Dezimalsystem nach Binärsystem Kommazahlen]]
 
 ---
 

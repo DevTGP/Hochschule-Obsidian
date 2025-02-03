@@ -70,3 +70,20 @@
 > - Netzwerkrouter
 > - Navigationssysteme
 > - Spielekonsolen (z. B. PlayStation 1/2).
+
+> [!quote] 32-Register (4 Byte / Wortbreite jedes Registers)
+| Name     | Nummer | Verwendung          |
+| -------- | ------ | ------------------- |
+| $zero    | 0      | Wert 0              |
+| $at      | 1      | Assembler           |
+| $v0-\$v1 | 2-3    | Funktionsergebnisse |
+| $a0-\$a3 | 4-7    | Argumente           |
+| $t0-\$t7 | 8-15   | Temporär            |
+| $s0-\$s7 | 16-23  | saved Variablen     |
+| $t8-\$t9 | 24-25  | Temporär            |
+| $k0-\$k1 | 26-27  | Betriebssystem      |
+| $gp      | 28     | Global Pointer      |
+| $sp      | 29     | Stack Pointer       |
+| $fp      | 30     | Frame Pointer       |
+| $ra      | 31     | Rücksprungadresse   |
+>^Register

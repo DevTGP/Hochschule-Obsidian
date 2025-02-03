@@ -22,3 +22,18 @@
 > 2. [[Multiplikationsregeln]]
 > 3. [[Algebraische Umformungen]]
 > 4. [[Minimierungstechniken]]
+
+> [!error] Übersicht der Regeln
+| Op mit 0                       | $A + 0 = A$                                 | $0A =0$                                   |
+| ------------------------------ | ------------------------------------------- | ----------------------------------------- |
+| Op mit 1                       | $A+1=1$                                     | $1A=A$                                    |
+| Idempotenz                     | $A+A=A$                                     | $AA=A$                                    |
+| Komplementär                   | $A+\overline{A}=1$                          | $A\overline{A}=0$                         |
+| Doppelte Negation / Involution | $\overline{\overline{A}}=A$                 |                                           |
+| Kommutativgesetze              | $A+B=B+A$                                   | $AB=BA$                                   |
+| Assoziativgesetze              | $A+(B+C)=(A+B)+C$                           | $A(BC)=(AB)C$                             |
+| Distributivgesetz              | $A(B+C)=AB+AC$                              |                                           |
+| DeMorgansche Regeln            | $\overline{AB} = \overline{A}+\overline{B}$ | $\overline{A}+\overline{B}=\overline{AB}$ |
+| Vereinfachungen                | $A+AB=A$                                    |                                           |
+| Vereinfachungen                | $A+\overline{A}B=A + B$                                    |                                           |
+| Vereinfachungen                | $(A+B)(A+C)=A+BC$                                    |                                           |
