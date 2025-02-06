@@ -17,4 +17,4 @@
 > - **Toggelt** bei J = K = 1
 > - **Dient als Frequenzteiler** bei J = K = 1
 >
-> ![[JK Flip-Flop Zeichnung]]
+> ![[JK Flip-Flop Bild.png]]

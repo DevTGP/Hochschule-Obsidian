@@ -4,7 +4,7 @@
 
 > [!check] Definition
 > Der **Registersatz** ist eine Gruppe von Hochgeschwindigkeitsspeichern innerhalb der CPU, die temporäre Daten und Steuerinformationen speichern.
-> Register sind schneller als [[Cache]] und [[RAM]] und ermöglichen effiziente Verarbeitung.
+> [[Register]] sind schneller als [[Cache]] und [[RAM]] und ermöglichen effiziente Verarbeitung.
 
 > [!error] Aufgabe
 > Dient zur Speicherung häufig oder schnell benötigter Daten.

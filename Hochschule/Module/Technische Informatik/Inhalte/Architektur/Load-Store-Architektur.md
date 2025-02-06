@@ -8,7 +8,7 @@
 > [!info] Hauptmerkmale:
 > 1. **Getrennte Speicher- und Rechenoperationen**: Nur Load/Store-Befehle greifen auf den Speicher zu.
 > 2. **Registerbasierte Berechnungen**: Alle Operationen erfolgen in Registern.
-> 3. **Reduzierte Befehlsanzahl**: Typisch für RISC-Prozessoren, optimiert für schnelle Pipeline-Verarbeitung.
+> 3. **Reduzierte Befehlsanzahl**: Typisch für [[RISC]]-Prozessoren, optimiert für schnelle Pipeline-Verarbeitung.
 
 > [!question] Verwendung
 > - ARM

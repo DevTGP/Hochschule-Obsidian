@@ -10,3 +10,12 @@
 > 5. [[Technische Datentypen]]
 > 6. [[Boolesche Algebra]]
 > 7. [[MIPS-Maschinenbefehle]]
+
+> [!bug] Fehlende Inhalte:
+> - Pipelining
+> - Maschinensprache:
+> 	- Verzweigungen 
+> 	- Bedingungen
+> 	- Prozeduren
+> - 1, 2 & 3 Bit Befehlsformate
+> - MIPS-Rechnerarchitektur genauere Erklärung

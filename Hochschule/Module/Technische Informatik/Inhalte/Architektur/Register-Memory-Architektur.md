@@ -11,4 +11,4 @@
 > 3. **Höhere Speicherzugriffe**: Kann zu Performanceeinbußen führen.
 
 > [!question] Verwendung
-> Typisch für **CISC-Prozessoren** wie x86.
+> Typisch für **[[CISC]]-Prozessoren** wie x86.

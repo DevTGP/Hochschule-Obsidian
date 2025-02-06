@@ -13,5 +13,5 @@
 > 2. Es gibt zwei Darstellungen für die Zahl 0 (positive 0000 und negative 1111).
 
 > [!note] Beispiel
-> Für +5 = 0101 im 4-Bit-System ist das Einerkomplement:  
-> −5 = 1010.
+> Für $+5 = 0101$ im 4-Bit-System ist das Einerkomplement:  
+> $−5 = 1010$.

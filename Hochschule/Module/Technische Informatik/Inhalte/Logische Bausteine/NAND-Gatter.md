@@ -4,6 +4,7 @@
 
 > [!check] Definition
 > Ein **NAND-Gatter** (NOT AND) ist ein logisches Schaltelement, das die **Negation der UND-Verknüpfung** ($\wedge$) ausführt.
+> Dieses Gatter wird auch als ***Universal Gate*** bezeichnet
 
 > [!info] Logiktabelle
 | A   | B   | X   |

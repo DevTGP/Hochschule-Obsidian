@@ -12,11 +12,11 @@
 >>     - 1: negativ.
 >
 >> [!example]- Beispiele
->>> [!note]- **Beispiel**: 5 + (-3) im 4-Bit-System:
->>> 5 = 0101, -3 = 1101 ([[2-er Komplement]]).
->>> - Addiere: 0101 + 1101 = 10010
->>> - Ignoriere den Übertrag (1): Ergebnis 0010.
->>> - 0010 = 2.
+>>> [!note]- **Beispiel**: $5 + (-3)$ im 4-Bit-System:
+>>> $5 = 0101, -3 = 1101$ ([[2-er Komplement]]).
+>>> - Addiere: $0101 + 1101 = 10010$
+>>> - Ignoriere den Übertrag (1): Ergebnis $0010$.
+>>> - $0010 = 2$.
 >>> 
->>> Das Ergebnis ist korrekt: 5+(−3)=25 + (-3) = 2.
+>>> Das Ergebnis ist korrekt: $5 + (-3) = 2$.
 ^main

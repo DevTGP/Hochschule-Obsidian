@@ -28,8 +28,7 @@
 > [!example] Inhalt
 > 1. [[Normalisiert]]
 > 2. [[Denormalisiert]]
-> 3. [[Abstandsberechnungen]]
-> 4. [[IEEE 754 Standards]]
+> 3. [[IEEE 754 Standards]]
 
 > [!caution] Wichtige Werte
 > ![[IEEE 754 Representation#^main]]

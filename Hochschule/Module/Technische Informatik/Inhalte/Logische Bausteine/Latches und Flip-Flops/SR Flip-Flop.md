@@ -17,4 +17,4 @@
 > - **Asynchron oder Taktgesteuert (synchrones SR-FlipFlop)**
 > - **Problem:** S = R = 1 ist nicht definiert
 >  
-> ![[SR Flip-Flop Zeichnung]]
+> ![[SR Flip-Flop Bild.png]]

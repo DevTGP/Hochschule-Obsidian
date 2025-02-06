@@ -15,3 +15,17 @@
 
 > [!tip] Aufbau
 > ![[von Neumann-Architektur Bild.png]]
+
+> [!error] von-Neumann-Flaschenhals
+> Der **Von-Neumann-Flaschenhals** beschreibt die Leistungsbegrenzung von Computersystemen, die nach der **Von-Neumann-Architektur** arbeiten.
+> 
+> **Problem:**
+> - In der Von-Neumann-Architektur teilen sich **Daten** und **Programme** denselben Speicher und denselben Bus.
+> - Der **Speicherbus** hat eine begrenzte Bandbreite, wodurch die CPU oft warten muss, bis Daten oder Instruktionen geladen sind.
+> - Dadurch entsteht eine **Datenflussbegrenzung**, die die gesamte Systemgeschwindigkeit reduziert.
+>
+> **Folgen:**
+> 
+> - Begrenzte **Datenübertragungsrate** zwischen Speicher und CPU.
+> - **Leerlaufzeiten der CPU**, wenn der Speicherzugriff zu langsam ist.
+> - Problem verstärkt sich mit steigender **Prozessorleistung** (CPU wird schneller als die Speicheranbindung).
