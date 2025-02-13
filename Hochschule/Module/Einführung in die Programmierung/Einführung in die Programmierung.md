@@ -1,17 +1,30 @@
 [[Modulübersicht]]
 
-1. [[Programme entwickeln]]
-2. [[Variablen, Ausdrücke, Anweisungen]]
-3. [[Funktionen]]
-4. [[Gestaltung von Schnittstellen]]
-5. [[Bedingungen und Rekursion]]
-6. [[Funktionen mit Rückgabewert]]
-7. [[Iteration]]
-8. [[Strings]]
-9. [[Wortspiele]]
-10. [[Listen]]
-11. [[Dictionaries]]
-12. [[Tuples]]
-13. [[Datenstrukturen]]
-14. [[Dateien]]
-15. [[Weitere PYTHON-Features]]
+---
+
+> [!example] Inhalt
+> - **1. Grundlagen**
+> 	- [[Programme entwickeln]]
+> 	- [[Variablen, Ausdrücke, Anweisungen]]
+> 	- [[Datentypen]]
+> - **2. Kontrollstrukturen & Funktionen**
+> 	- [[Bedingungen und Rekursion]]
+> 	- [[Iteration]]
+> 	- [[Funktionen]]
+> 	- [[Funktionen mit Rückgabewert]]
+> - **3. Datenstrukturen**
+> 	- [[Strings]]
+> 	- [[Listen]]
+> 	- [[Dictionaries]]
+> 	- [[Tuples]]
+> 	- [[weitere Datenstrukturen]]
+> - **4. Dateien & Schnittstellen**
+> 	- [[Dateien in Python]]
+> 	- [[Gestaltung von Schnittstellen]]
+> - **5. Fehlerbehandlung & Sonstiges**
+> 	- [[Programmfehler]]
+> 	- [[Weitere PYTHON-Features]]
+> 	- [[Docstrings]]
+> - **6. Anwendungen & Praxis**
+> 	- [[Wortspiele]]
+> - [[Einführung in die  Programmierung - Codeblocks]]

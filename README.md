@@ -52,11 +52,11 @@ noch nicht existent, also am besten fragen oder nachschauen, wie ist im main Bra
 # Stats for Nerds
 Nach letzten Messungen beinhaltet der Ordner:
 
-| Speicherplatz      | 14.17 MB |
+| Speicherplatz      | 14.18 MB |
 | ------------------ | -------: |
-| Dateien            |      244 |
+| Dateien            |      246 |
 | Angehängte Dateien |       37 |
-| Notizen            |      207 |
-| Verlinkungen       |      711 |
-| Wörter             |   14.209 |
-| Zeichen            |  140.171 |
+| Notizen            |      209 |
+| Verlinkungen       |      717 |
+| Wörter             |   14.383 |
+| Zeichen            |  142.285 |

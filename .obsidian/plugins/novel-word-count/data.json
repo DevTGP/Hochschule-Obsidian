@@ -68,56 +68,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 359,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1966666666666668,
-      "characterCount": 3376,
-      "nonWhitespaceCharacterCount": 2860,
-      "readingTimeInMinutes": 1.3547169811320754,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310514,
-      "modifiedDate": 1738835755066,
-      "sizeInBytes": 3395,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1966666666666668,
-        "wordCount": 359,
-        "characterCount": 3376,
-        "nonWhitespaceCharacterCount": 2860
-      }
-    },
-    "Hochschule/Thematiken/Mathe/Mathe.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 33,
-      "nonWhitespaceCharacterCount": 25,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310513,
-      "modifiedDate": 1737567229000,
-      "sizeInBytes": 33,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 33,
-        "nonWhitespaceCharacterCount": 25
-      }
-    },
     "Hochschule/Module/Theoretische Informatik/Theoretische Informatik.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -141,6 +91,31 @@
         "wordCount": 29,
         "characterCount": 310,
         "nonWhitespaceCharacterCount": 270
+      }
+    },
+    "Hochschule/Module/Theoretische Informatik/Inhalte/WHILE-Programme.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310511,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Hochschule/Module/Theoretische Informatik/Inhalte/Wörter und Sprachen.md": {
@@ -193,31 +168,6 @@
         "nonWhitespaceCharacterCount": 212
       }
     },
-    "Hochschule/Module/Theoretische Informatik/Inhalte/WHILE-Programme.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310511,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Theoretische Informatik/Inhalte/Deterministische endliche Automaten.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -258,7 +208,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310510,
-      "modifiedDate": 1738834780461,
+      "modifiedDate": 1738845062296,
       "sizeInBytes": 446,
       "sessionStart": {
         "noteCount": 1,
@@ -291,31 +241,6 @@
         "wordCount": 31,
         "characterCount": 334,
         "nonWhitespaceCharacterCount": 286
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 111,
-      "nonWhitespaceCharacterCount": 94,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738415257567,
-      "modifiedDate": 1738773026000,
-      "sizeInBytes": 113,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 111,
-        "nonWhitespaceCharacterCount": 94
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/UNICODE.md": {
@@ -393,81 +318,6 @@
         "nonWhitespaceCharacterCount": 1220
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Fehlerkennende Codes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 64,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 709,
-      "nonWhitespaceCharacterCount": 598,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738668794144,
-      "modifiedDate": 1738602943000,
-      "sizeInBytes": 720,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 709,
-        "nonWhitespaceCharacterCount": 598
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Hexadezimalsystem.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 777,
-      "nonWhitespaceCharacterCount": 643,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 1,
-      "embedCount": 5,
-      "aliases": null,
-      "createdDate": 1738097827748,
-      "modifiedDate": 1738189404000,
-      "sizeInBytes": 784,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 777,
-        "nonWhitespaceCharacterCount": 643
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/EBCDIC.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 54,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 544,
-      "nonWhitespaceCharacterCount": 449,
-      "readingTimeInMinutes": 0.2037735849056604,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738668794137,
-      "modifiedDate": 1738602943000,
-      "sizeInBytes": 547,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.18,
-        "wordCount": 54,
-        "characterCount": 544,
-        "nonWhitespaceCharacterCount": 449
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Hexadezimalsystem nach Dezimalsystem.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -518,6 +368,56 @@
         "nonWhitespaceCharacterCount": 529
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Hexadezimalsystem.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 777,
+      "nonWhitespaceCharacterCount": 643,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 1,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1738097827748,
+      "modifiedDate": 1738189404000,
+      "sizeInBytes": 784,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3233333333333333,
+        "wordCount": 97,
+        "characterCount": 777,
+        "nonWhitespaceCharacterCount": 643
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Fehlerkennende Codes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 64,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 709,
+      "nonWhitespaceCharacterCount": 598,
+      "readingTimeInMinutes": 0.24150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738668794144,
+      "modifiedDate": 1738602943000,
+      "sizeInBytes": 720,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 709,
+        "nonWhitespaceCharacterCount": 598
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Dezimalsystem.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -541,6 +441,31 @@
         "wordCount": 66,
         "characterCount": 606,
         "nonWhitespaceCharacterCount": 521
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/EBCDIC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 544,
+      "nonWhitespaceCharacterCount": 449,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738668794137,
+      "modifiedDate": 1738602943000,
+      "sizeInBytes": 547,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 544,
+        "nonWhitespaceCharacterCount": 449
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Dezimalsystem nach Binärsystem.md": {
@@ -693,31 +618,6 @@
         "nonWhitespaceCharacterCount": 544
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Binary Coded Decimal.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 70,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 573,
-      "nonWhitespaceCharacterCount": 485,
-      "readingTimeInMinutes": 0.2641509433962264,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738097827697,
-      "modifiedDate": 1738582510000,
-      "sizeInBytes": 582,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.23333333333333334,
-        "wordCount": 70,
-        "characterCount": 573,
-        "nonWhitespaceCharacterCount": 485
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Binärsystem Addition.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -741,6 +641,31 @@
         "wordCount": 47,
         "characterCount": 461,
         "nonWhitespaceCharacterCount": 333
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/Binary Coded Decimal.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 573,
+      "nonWhitespaceCharacterCount": 485,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738097827697,
+      "modifiedDate": 1738582510000,
+      "sizeInBytes": 582,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 573,
+        "nonWhitespaceCharacterCount": 485
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Zahlendarstellung und Codes/ASCII.md": {
@@ -793,29 +718,29 @@
         "nonWhitespaceCharacterCount": 5232
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 138,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.46,
-      "characterCount": 2492,
-      "nonWhitespaceCharacterCount": 1302,
-      "readingTimeInMinutes": 0.5207547169811321,
-      "linkCount": 7,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 111,
+      "nonWhitespaceCharacterCount": 94,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737566310504,
-      "modifiedDate": 1738602943000,
-      "sizeInBytes": 2499,
+      "createdDate": 1738415257567,
+      "modifiedDate": 1738773026000,
+      "sizeInBytes": 113,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.46,
-        "wordCount": 138,
-        "characterCount": 2492,
-        "nonWhitespaceCharacterCount": 1302
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 111,
+        "nonWhitespaceCharacterCount": 94
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten.md": {
@@ -841,181 +766,6 @@
         "wordCount": 15,
         "characterCount": 162,
         "nonWhitespaceCharacterCount": 138
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/MIPS-Maschinenbefehle.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 372,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.24,
-      "characterCount": 4894,
-      "nonWhitespaceCharacterCount": 2830,
-      "readingTimeInMinutes": 1.4037735849056603,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738242083117,
-      "modifiedDate": 1738773059000,
-      "sizeInBytes": 4904,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.24,
-        "wordCount": 372,
-        "characterCount": 4894,
-        "nonWhitespaceCharacterCount": 2830
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 208,
-      "nonWhitespaceCharacterCount": 179,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883842,
-      "modifiedDate": 1738772721000,
-      "sizeInBytes": 209,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 208,
-        "nonWhitespaceCharacterCount": 179
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Fließkomma IEEE 754.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 121,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4033333333333333,
-      "characterCount": 1118,
-      "nonWhitespaceCharacterCount": 873,
-      "readingTimeInMinutes": 0.45660377358490567,
-      "linkCount": 4,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883839,
-      "modifiedDate": 1738772704000,
-      "sizeInBytes": 1135,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4033333333333333,
-        "wordCount": 121,
-        "characterCount": 1118,
-        "nonWhitespaceCharacterCount": 873
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 84,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 693,
-      "nonWhitespaceCharacterCount": 576,
-      "readingTimeInMinutes": 0.3169811320754717,
-      "linkCount": 4,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1738498883845,
-      "modifiedDate": 1738772922000,
-      "sizeInBytes": 698,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.28,
-        "wordCount": 84,
-        "characterCount": 693,
-        "nonWhitespaceCharacterCount": 576
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement Subtraktion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 111,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37,
-      "characterCount": 901,
-      "nonWhitespaceCharacterCount": 737,
-      "readingTimeInMinutes": 0.4188679245283019,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883844,
-      "modifiedDate": 1738772946000,
-      "sizeInBytes": 906,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37,
-        "wordCount": 111,
-        "characterCount": 901,
-        "nonWhitespaceCharacterCount": 737
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement Addition.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 107,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3566666666666667,
-      "characterCount": 884,
-      "nonWhitespaceCharacterCount": 735,
-      "readingTimeInMinutes": 0.4037735849056604,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883843,
-      "modifiedDate": 1738772871000,
-      "sizeInBytes": 894,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3566666666666667,
-        "wordCount": 107,
-        "characterCount": 884,
-        "nonWhitespaceCharacterCount": 735
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/1-er Komplement.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 70,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 541,
-      "nonWhitespaceCharacterCount": 449,
-      "readingTimeInMinutes": 0.2641509433962264,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883843,
-      "modifiedDate": 1738772889000,
-      "sizeInBytes": 549,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.23333333333333334,
-        "wordCount": 70,
-        "characterCount": 541,
-        "nonWhitespaceCharacterCount": 449
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Fließkomma IEEE 754/Normalisiert.md": {
@@ -1076,20 +826,20 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.45666666666666667,
-      "characterCount": 1525,
+      "characterCount": 1543,
       "nonWhitespaceCharacterCount": 883,
       "readingTimeInMinutes": 0.5169811320754717,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738498883840,
-      "modifiedDate": 1738772680000,
-      "sizeInBytes": 1530,
+      "modifiedDate": 1738835852653,
+      "sizeInBytes": 1548,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.45666666666666667,
         "wordCount": 137,
-        "characterCount": 1525,
+        "characterCount": 1543,
         "nonWhitespaceCharacterCount": 883
       }
     },
@@ -1118,29 +868,179 @@
         "nonWhitespaceCharacterCount": 668
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Steuerwerk.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Fließkomma IEEE 754.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 114,
+      "wordCount": 121,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.38,
-      "characterCount": 1068,
-      "nonWhitespaceCharacterCount": 899,
-      "readingTimeInMinutes": 0.43018867924528303,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 1152,
+      "nonWhitespaceCharacterCount": 873,
+      "readingTimeInMinutes": 0.45660377358490567,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498883839,
+      "modifiedDate": 1738835852652,
+      "sizeInBytes": 1169,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4033333333333333,
+        "wordCount": 121,
+        "characterCount": 1152,
+        "nonWhitespaceCharacterCount": 873
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 208,
+      "nonWhitespaceCharacterCount": 179,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883842,
+      "modifiedDate": 1738772721000,
+      "sizeInBytes": 209,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06333333333333334,
+        "wordCount": 19,
+        "characterCount": 208,
+        "nonWhitespaceCharacterCount": 179
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 717,
+      "nonWhitespaceCharacterCount": 576,
+      "readingTimeInMinutes": 0.3169811320754717,
+      "linkCount": 4,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1738498883845,
+      "modifiedDate": 1738835852657,
+      "sizeInBytes": 722,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.28,
+        "wordCount": 84,
+        "characterCount": 717,
+        "nonWhitespaceCharacterCount": 576
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement Subtraktion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 111,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37,
+      "characterCount": 926,
+      "nonWhitespaceCharacterCount": 737,
+      "readingTimeInMinutes": 0.4188679245283019,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883844,
+      "modifiedDate": 1738835852656,
+      "sizeInBytes": 931,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37,
+        "wordCount": 111,
+        "characterCount": 926,
+        "nonWhitespaceCharacterCount": 737
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/2-er Komplement Addition.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 107,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 906,
+      "nonWhitespaceCharacterCount": 735,
+      "readingTimeInMinutes": 0.4037735849056604,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883843,
+      "modifiedDate": 1738835852656,
+      "sizeInBytes": 916,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3566666666666667,
+        "wordCount": 107,
+        "characterCount": 906,
+        "nonWhitespaceCharacterCount": 735
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Technische Datentypen/Negative Binärzahlen/1-er Komplement.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 558,
+      "nonWhitespaceCharacterCount": 449,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883843,
+      "modifiedDate": 1738835852655,
+      "sizeInBytes": 566,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 558,
+        "nonWhitespaceCharacterCount": 449
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/MIPS-Maschinenbefehle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 372,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.24,
+      "characterCount": 4894,
+      "nonWhitespaceCharacterCount": 2830,
+      "readingTimeInMinutes": 1.4037735849056603,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498883836,
-      "modifiedDate": 1738498883836,
-      "sizeInBytes": 1076,
+      "createdDate": 1738242083117,
+      "modifiedDate": 1738773059000,
+      "sizeInBytes": 4904,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.38,
-        "wordCount": 114,
-        "characterCount": 1068,
-        "nonWhitespaceCharacterCount": 899
+        "pageCount": 1.24,
+        "wordCount": 372,
+        "characterCount": 4894,
+        "nonWhitespaceCharacterCount": 2830
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Systembusse.md": {
@@ -1168,6 +1068,56 @@
         "nonWhitespaceCharacterCount": 666
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Steuerwerk.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 114,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38,
+      "characterCount": 1068,
+      "nonWhitespaceCharacterCount": 899,
+      "readingTimeInMinutes": 0.43018867924528303,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498883836,
+      "modifiedDate": 1738498883836,
+      "sizeInBytes": 1076,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38,
+        "wordCount": 114,
+        "characterCount": 1068,
+        "nonWhitespaceCharacterCount": 899
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Registersatz.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 1001,
+      "nonWhitespaceCharacterCount": 854,
+      "readingTimeInMinutes": 0.4,
+      "linkCount": 4,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498883835,
+      "modifiedDate": 1738835852651,
+      "sizeInBytes": 1013,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.35333333333333333,
+        "wordCount": 106,
+        "characterCount": 1001,
+        "nonWhitespaceCharacterCount": 854
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Rechenwerk.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1191,56 +1141,6 @@
         "wordCount": 95,
         "characterCount": 839,
         "nonWhitespaceCharacterCount": 699
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Adresswerk.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 1116,
-      "nonWhitespaceCharacterCount": 939,
-      "readingTimeInMinutes": 0.4641509433962264,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883831,
-      "modifiedDate": 1738498883831,
-      "sizeInBytes": 1123,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 1116,
-        "nonWhitespaceCharacterCount": 939
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Ressourcen/Steuerwerk Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498902434,
-      "modifiedDate": 1738498902434,
-      "sizeInBytes": 107484,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Ressourcen/Registersatz Bild.png": {
@@ -1285,6 +1185,31 @@
       "createdDate": 1738498902435,
       "modifiedDate": 1738498902435,
       "sizeInBytes": 99921,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Ressourcen/Steuerwerk Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498902434,
+      "modifiedDate": 1738498902434,
+      "sizeInBytes": 107484,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1343,29 +1268,29 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Registersatz.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Systemkomponenten/Adresswerk.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 106,
+      "wordCount": 123,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.35333333333333333,
-      "characterCount": 980,
-      "nonWhitespaceCharacterCount": 854,
-      "readingTimeInMinutes": 0.4,
-      "linkCount": 4,
+      "pageCount": 0.41,
+      "characterCount": 1116,
+      "nonWhitespaceCharacterCount": 939,
+      "readingTimeInMinutes": 0.4641509433962264,
+      "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498883835,
-      "modifiedDate": 1738834705803,
-      "sizeInBytes": 992,
+      "createdDate": 1738498883831,
+      "modifiedDate": 1738498883831,
+      "sizeInBytes": 1123,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.35333333333333333,
-        "wordCount": 106,
-        "characterCount": 980,
-        "nonWhitespaceCharacterCount": 854
+        "pageCount": 0.41,
+        "wordCount": 123,
+        "characterCount": 1116,
+        "nonWhitespaceCharacterCount": 939
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine.md": {
@@ -1468,56 +1393,6 @@
         "nonWhitespaceCharacterCount": 747
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/OR-Gatter.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 42,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14,
-      "characterCount": 412,
-      "nonWhitespaceCharacterCount": 279,
-      "readingTimeInMinutes": 0.15849056603773584,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498894646,
-      "modifiedDate": 1738498902412,
-      "sizeInBytes": 414,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14,
-        "wordCount": 42,
-        "characterCount": 412,
-        "nonWhitespaceCharacterCount": 279
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/NOT-Gatter.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 339,
-      "nonWhitespaceCharacterCount": 252,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498894645,
-      "modifiedDate": 1738498902411,
-      "sizeInBytes": 339,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 339,
-        "nonWhitespaceCharacterCount": 252
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Volladdierer Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1535,31 +1410,6 @@
       "createdDate": 1738498902427,
       "modifiedDate": 1738498902427,
       "sizeInBytes": 122670,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Ripple-Carry-Addierer Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498902425,
-      "modifiedDate": 1738498902425,
-      "sizeInBytes": 68379,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1593,7 +1443,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/NOT-Gatter Bild.png": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Ripple-Carry-Addierer Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1607,9 +1457,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738498902423,
-      "modifiedDate": 1738498902423,
-      "sizeInBytes": 10306,
+      "createdDate": 1738498902425,
+      "modifiedDate": 1738498902425,
+      "sizeInBytes": 68379,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1643,31 +1493,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Multiplexer Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498902421,
-      "modifiedDate": 1738498902421,
-      "sizeInBytes": 157098,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/NOR-Gatter Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1685,6 +1510,31 @@
       "createdDate": 1738498902422,
       "modifiedDate": 1738498902422,
       "sizeInBytes": 13074,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/NOT-Gatter Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498902423,
+      "modifiedDate": 1738498902423,
+      "sizeInBytes": 10306,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1718,7 +1568,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Halb-Addierer Bild.png": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Multiplexer Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1732,9 +1582,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738498902419,
-      "modifiedDate": 1738498902420,
-      "sizeInBytes": 24796,
+      "createdDate": 1738498902421,
+      "modifiedDate": 1738498902421,
+      "sizeInBytes": 157098,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1793,6 +1643,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/Halb-Addierer Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498902419,
+      "modifiedDate": 1738498902420,
+      "sizeInBytes": 24796,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/De-Multiplexer Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498902417,
+      "modifiedDate": 1738498902417,
+      "sizeInBytes": 126585,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/AND-Gatter Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1843,31 +1743,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/De-Multiplexer Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498902417,
-      "modifiedDate": 1738498902417,
-      "sizeInBytes": 126585,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Ressourcen/4-Bit Vergleicher Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1893,54 +1768,54 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/NAND-Gatter.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/OR-Gatter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 42,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 490,
-      "nonWhitespaceCharacterCount": 364,
-      "readingTimeInMinutes": 0.2037735849056604,
+      "pageCount": 0.14,
+      "characterCount": 412,
+      "nonWhitespaceCharacterCount": 279,
+      "readingTimeInMinutes": 0.15849056603773584,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498894644,
-      "modifiedDate": 1738766777777,
-      "sizeInBytes": 492,
+      "createdDate": 1738498894646,
+      "modifiedDate": 1738498902412,
+      "sizeInBytes": 414,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.18,
-        "wordCount": 54,
-        "characterCount": 490,
-        "nonWhitespaceCharacterCount": 364
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 412,
+        "nonWhitespaceCharacterCount": 279
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Multiplexer.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/NOT-Gatter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 81,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 790,
-      "nonWhitespaceCharacterCount": 655,
-      "readingTimeInMinutes": 0.30566037735849055,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 339,
+      "nonWhitespaceCharacterCount": 252,
+      "readingTimeInMinutes": 0.12075471698113208,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498894643,
-      "modifiedDate": 1738498902410,
-      "sizeInBytes": 798,
+      "createdDate": 1738498894645,
+      "modifiedDate": 1738498902411,
+      "sizeInBytes": 339,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 790,
-        "nonWhitespaceCharacterCount": 655
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 339,
+        "nonWhitespaceCharacterCount": 252
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/NOR-Gatter.md": {
@@ -1951,96 +1826,71 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.18666666666666668,
-      "characterCount": 512,
+      "characterCount": 533,
       "nonWhitespaceCharacterCount": 382,
       "readingTimeInMinutes": 0.21132075471698114,
       "linkCount": 1,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1738498894644,
-      "modifiedDate": 1738766789234,
-      "sizeInBytes": 514,
+      "modifiedDate": 1738835852650,
+      "sizeInBytes": 535,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.18666666666666668,
         "wordCount": 56,
-        "characterCount": 512,
+        "characterCount": 533,
         "nonWhitespaceCharacterCount": 382
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-flops.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/NAND-Gatter.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 91,
+      "wordCount": 54,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 833,
-      "nonWhitespaceCharacterCount": 698,
-      "readingTimeInMinutes": 0.3433962264150943,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883828,
-      "modifiedDate": 1738766799405,
-      "sizeInBytes": 840,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.30333333333333334,
-        "wordCount": 91,
-        "characterCount": 833,
-        "nonWhitespaceCharacterCount": 698
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Decoder.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 193,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6433333333333333,
-      "characterCount": 2019,
-      "nonWhitespaceCharacterCount": 1128,
-      "readingTimeInMinutes": 0.7283018867924528,
+      "pageCount": 0.18,
+      "characterCount": 510,
+      "nonWhitespaceCharacterCount": 364,
+      "readingTimeInMinutes": 0.2037735849056604,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498894641,
-      "modifiedDate": 1738498902408,
-      "sizeInBytes": 2030,
+      "createdDate": 1738498894644,
+      "modifiedDate": 1738835852650,
+      "sizeInBytes": 512,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6433333333333333,
-        "wordCount": 193,
-        "characterCount": 2019,
-        "nonWhitespaceCharacterCount": 1128
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 510,
+        "nonWhitespaceCharacterCount": 364
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Taktflanken.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Halbaddierer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 64,
+      "wordCount": 74,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 592,
-      "nonWhitespaceCharacterCount": 492,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 768,
+      "nonWhitespaceCharacterCount": 508,
+      "readingTimeInMinutes": 0.2792452830188679,
+      "linkCount": 2,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738668794126,
-      "modifiedDate": 1738602943000,
-      "sizeInBytes": 600,
+      "createdDate": 1738498894642,
+      "modifiedDate": 1738498902410,
+      "sizeInBytes": 776,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 592,
-        "nonWhitespaceCharacterCount": 492
+        "pageCount": 0.24666666666666667,
+        "wordCount": 74,
+        "characterCount": 768,
+        "nonWhitespaceCharacterCount": 508
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/T Flip-Flop.md": {
@@ -2068,6 +1918,31 @@
         "nonWhitespaceCharacterCount": 552
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Taktflanken.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 64,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 592,
+      "nonWhitespaceCharacterCount": 492,
+      "readingTimeInMinutes": 0.24150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738668794126,
+      "modifiedDate": 1738602943000,
+      "sizeInBytes": 600,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 592,
+        "nonWhitespaceCharacterCount": 492
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/SR Latch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2093,31 +1968,6 @@
         "nonWhitespaceCharacterCount": 529
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Gated D Latch.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 69,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.23,
-      "characterCount": 662,
-      "nonWhitespaceCharacterCount": 468,
-      "readingTimeInMinutes": 0.26037735849056604,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883817,
-      "modifiedDate": 1738498883817,
-      "sizeInBytes": 666,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.23,
-        "wordCount": 69,
-        "characterCount": 662,
-        "nonWhitespaceCharacterCount": 468
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/SR Flip-Flop.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2126,21 +1976,46 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.22,
-      "characterCount": 700,
+      "characterCount": 720,
       "nonWhitespaceCharacterCount": 480,
       "readingTimeInMinutes": 0.2490566037735849,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1738498883827,
-      "modifiedDate": 1738766974662,
-      "sizeInBytes": 703,
+      "modifiedDate": 1738835852649,
+      "sizeInBytes": 723,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.22,
         "wordCount": 66,
-        "characterCount": 700,
+        "characterCount": 720,
         "nonWhitespaceCharacterCount": 480
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/JK Flip-Flop.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 73,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 738,
+      "nonWhitespaceCharacterCount": 507,
+      "readingTimeInMinutes": 0.27547169811320754,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498883818,
+      "modifiedDate": 1738835852647,
+      "sizeInBytes": 740,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24333333333333335,
+        "wordCount": 73,
+        "characterCount": 738,
+        "nonWhitespaceCharacterCount": 507
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/SR Latch Zeichnung.md": {
@@ -2160,31 +2035,6 @@
       "createdDate": 1738498883825,
       "modifiedDate": 1738498883826,
       "sizeInBytes": 66838,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/SR Flip-Flop Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738766957728,
-      "modifiedDate": 1738766957728,
-      "sizeInBytes": 31922,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2218,6 +2068,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/SR Flip-Flop Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738835846641,
+      "modifiedDate": 1738835852649,
+      "sizeInBytes": 31922,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/Gated D Latch Zeichnung.md": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498883820,
+      "modifiedDate": 1738498883820,
+      "sizeInBytes": 129238,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/JK Flip-Flop Bild.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2232,8 +2132,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738766880082,
-      "modifiedDate": 1738766880083,
+      "createdDate": 1738835846641,
+      "modifiedDate": 1738835852648,
       "sizeInBytes": 38756,
       "sessionStart": {
         "noteCount": 0,
@@ -2268,56 +2168,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Ressourcen/Gated D Latch Zeichnung.md": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498883820,
-      "modifiedDate": 1738498883820,
-      "sizeInBytes": 129238,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/JK Flip-Flop.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 73,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.24333333333333335,
-      "characterCount": 718,
-      "nonWhitespaceCharacterCount": 507,
-      "readingTimeInMinutes": 0.27547169811320754,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883818,
-      "modifiedDate": 1738766905430,
-      "sizeInBytes": 720,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.24333333333333335,
-        "wordCount": 73,
-        "characterCount": 718,
-        "nonWhitespaceCharacterCount": 507
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Gated SR Latch.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2341,6 +2191,106 @@
         "wordCount": 88,
         "characterCount": 898,
         "nonWhitespaceCharacterCount": 602
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-Flops/Gated D Latch.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 69,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 468,
+      "readingTimeInMinutes": 0.26037735849056604,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498883817,
+      "modifiedDate": 1738498883817,
+      "sizeInBytes": 666,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23,
+        "wordCount": 69,
+        "characterCount": 662,
+        "nonWhitespaceCharacterCount": 468
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Multiplexer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 81,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.27,
+      "characterCount": 790,
+      "nonWhitespaceCharacterCount": 655,
+      "readingTimeInMinutes": 0.30566037735849055,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498894643,
+      "modifiedDate": 1738498902410,
+      "sizeInBytes": 798,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.27,
+        "wordCount": 81,
+        "characterCount": 790,
+        "nonWhitespaceCharacterCount": 655
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Latches und Flip-flops.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 833,
+      "nonWhitespaceCharacterCount": 698,
+      "readingTimeInMinutes": 0.3433962264150943,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883828,
+      "modifiedDate": 1738766799405,
+      "sizeInBytes": 840,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30333333333333334,
+        "wordCount": 91,
+        "characterCount": 833,
+        "nonWhitespaceCharacterCount": 698
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Encoder.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1912,
+      "nonWhitespaceCharacterCount": 1033,
+      "readingTimeInMinutes": 0.6943396226415094,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738498894642,
+      "modifiedDate": 1738498902409,
+      "sizeInBytes": 1924,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6133333333333333,
+        "wordCount": 184,
+        "characterCount": 1912,
+        "nonWhitespaceCharacterCount": 1033
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/De-Multiplexer.md": {
@@ -2368,54 +2318,29 @@
         "nonWhitespaceCharacterCount": 827
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Halbaddierer.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Decoder.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 74,
+      "wordCount": 193,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.24666666666666667,
-      "characterCount": 768,
-      "nonWhitespaceCharacterCount": 508,
-      "readingTimeInMinutes": 0.2792452830188679,
-      "linkCount": 2,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498894642,
-      "modifiedDate": 1738498902410,
-      "sizeInBytes": 776,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.24666666666666667,
-        "wordCount": 74,
-        "characterCount": 768,
-        "nonWhitespaceCharacterCount": 508
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/Encoder.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 184,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6133333333333333,
-      "characterCount": 1912,
-      "nonWhitespaceCharacterCount": 1033,
-      "readingTimeInMinutes": 0.6943396226415094,
+      "pageCount": 0.6433333333333333,
+      "characterCount": 2019,
+      "nonWhitespaceCharacterCount": 1128,
+      "readingTimeInMinutes": 0.7283018867924528,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498894642,
-      "modifiedDate": 1738498902409,
-      "sizeInBytes": 1924,
+      "createdDate": 1738498894641,
+      "modifiedDate": 1738498902408,
+      "sizeInBytes": 2030,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6133333333333333,
-        "wordCount": 184,
-        "characterCount": 1912,
-        "nonWhitespaceCharacterCount": 1033
+        "pageCount": 0.6433333333333333,
+        "wordCount": 193,
+        "characterCount": 2019,
+        "nonWhitespaceCharacterCount": 1128
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Logische Bausteine/AND-Gatter.md": {
@@ -2493,6 +2418,56 @@
         "nonWhitespaceCharacterCount": 601
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 392,
+      "nonWhitespaceCharacterCount": 338,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738404702829,
+      "modifiedDate": 1738603095000,
+      "sizeInBytes": 392,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09666666666666666,
+        "wordCount": 29,
+        "characterCount": 392,
+        "nonWhitespaceCharacterCount": 338
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 138,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.46,
+      "characterCount": 2453,
+      "nonWhitespaceCharacterCount": 1302,
+      "readingTimeInMinutes": 0.5207547169811321,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310504,
+      "modifiedDate": 1738845301446,
+      "sizeInBytes": 2460,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.46,
+        "wordCount": 138,
+        "characterCount": 2453,
+        "nonWhitespaceCharacterCount": 1302
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Sum of Products.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2516,31 +2491,6 @@
         "wordCount": 65,
         "characterCount": 613,
         "nonWhitespaceCharacterCount": 504
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Multiplikationsregeln.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 192,
-      "nonWhitespaceCharacterCount": 139,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738227765114,
-      "modifiedDate": 1738180101000,
-      "sizeInBytes": 196,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 192,
-        "nonWhitespaceCharacterCount": 139
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Product of Sums.md": {
@@ -2618,31 +2568,6 @@
         "nonWhitespaceCharacterCount": 1559
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Komplement.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 236,
-      "nonWhitespaceCharacterCount": 189,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738227765159,
-      "modifiedDate": 1738180101000,
-      "sizeInBytes": 236,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 236,
-        "nonWhitespaceCharacterCount": 189
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Null und Eins.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2666,6 +2591,81 @@
         "wordCount": 58,
         "characterCount": 445,
         "nonWhitespaceCharacterCount": 335
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Multiplikationsregeln.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 192,
+      "nonWhitespaceCharacterCount": 139,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738227765114,
+      "modifiedDate": 1738180101000,
+      "sizeInBytes": 196,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 192,
+        "nonWhitespaceCharacterCount": 139
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Involution.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 232,
+      "nonWhitespaceCharacterCount": 192,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738227765137,
+      "modifiedDate": 1738180101000,
+      "sizeInBytes": 233,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 232,
+        "nonWhitespaceCharacterCount": 192
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Komplement.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 236,
+      "nonWhitespaceCharacterCount": 189,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738227765159,
+      "modifiedDate": 1738180101000,
+      "sizeInBytes": 236,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 236,
+        "nonWhitespaceCharacterCount": 189
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Kommutativität.md": {
@@ -2693,29 +2693,54 @@
         "nonWhitespaceCharacterCount": 215
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Involution.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Idempotenz.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 21,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 232,
-      "nonWhitespaceCharacterCount": 192,
-      "readingTimeInMinutes": 0.07924528301886792,
+      "pageCount": 0.09,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 182,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1738227765137,
+      "createdDate": 1738227765145,
       "modifiedDate": 1738180101000,
       "sizeInBytes": 233,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.07,
-        "wordCount": 21,
-        "characterCount": 232,
-        "nonWhitespaceCharacterCount": 192
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 233,
+        "nonWhitespaceCharacterCount": 182
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Algebraische Umformungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 254,
+      "nonWhitespaceCharacterCount": 211,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738227765180,
+      "modifiedDate": 1738241784296,
+      "sizeInBytes": 257,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 254,
+        "nonWhitespaceCharacterCount": 211
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Distributivität.md": {
@@ -2768,31 +2793,6 @@
         "nonWhitespaceCharacterCount": 252
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Idempotenz.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 233,
-      "nonWhitespaceCharacterCount": 182,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738227765145,
-      "modifiedDate": 1738180101000,
-      "sizeInBytes": 233,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 233,
-        "nonWhitespaceCharacterCount": 182
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/BA Assoziativität.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2818,31 +2818,6 @@
         "nonWhitespaceCharacterCount": 213
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Algebraische Umformungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 254,
-      "nonWhitespaceCharacterCount": 211,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738227765180,
-      "modifiedDate": 1738241784296,
-      "sizeInBytes": 257,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 254,
-        "nonWhitespaceCharacterCount": 211
-      }
-    },
     "Hochschule/Module/Technische Informatik/Inhalte/Boolesche Algebra/Additionsregeln.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2866,181 +2841,6 @@
         "wordCount": 29,
         "characterCount": 200,
         "nonWhitespaceCharacterCount": 154
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 29,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 392,
-      "nonWhitespaceCharacterCount": 338,
-      "readingTimeInMinutes": 0.10943396226415095,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738404702829,
-      "modifiedDate": 1738603095000,
-      "sizeInBytes": 392,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09666666666666666,
-        "wordCount": 29,
-        "characterCount": 392,
-        "nonWhitespaceCharacterCount": 338
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/von-Neumann-Architektur.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 173,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5766666666666667,
-      "characterCount": 1575,
-      "nonWhitespaceCharacterCount": 1362,
-      "readingTimeInMinutes": 0.6528301886792452,
-      "linkCount": 3,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883815,
-      "modifiedDate": 1738788335558,
-      "sizeInBytes": 1588,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5766666666666667,
-        "wordCount": 173,
-        "characterCount": 1575,
-        "nonWhitespaceCharacterCount": 1362
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/RISC.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 84,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 891,
-      "nonWhitespaceCharacterCount": 756,
-      "readingTimeInMinutes": 0.3169811320754717,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883812,
-      "modifiedDate": 1738498883813,
-      "sizeInBytes": 896,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.28,
-        "wordCount": 84,
-        "characterCount": 891,
-        "nonWhitespaceCharacterCount": 756
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Harvard-Architektur.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 76,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 727,
-      "nonWhitespaceCharacterCount": 622,
-      "readingTimeInMinutes": 0.28679245283018867,
-      "linkCount": 2,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738498883807,
-      "modifiedDate": 1738498883807,
-      "sizeInBytes": 733,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.25333333333333335,
-        "wordCount": 76,
-        "characterCount": 727,
-        "nonWhitespaceCharacterCount": 622
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Instruction Sets.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 98,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.32666666666666666,
-      "characterCount": 922,
-      "nonWhitespaceCharacterCount": 766,
-      "readingTimeInMinutes": 0.36981132075471695,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883807,
-      "modifiedDate": 1738498883807,
-      "sizeInBytes": 926,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.32666666666666666,
-        "wordCount": 98,
-        "characterCount": 922,
-        "nonWhitespaceCharacterCount": 766
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Register-Memory-Architektur.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 62,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20666666666666667,
-      "characterCount": 584,
-      "nonWhitespaceCharacterCount": 509,
-      "readingTimeInMinutes": 0.2339622641509434,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738498883813,
-      "modifiedDate": 1738832399472,
-      "sizeInBytes": 590,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20666666666666667,
-        "wordCount": 62,
-        "characterCount": 584,
-        "nonWhitespaceCharacterCount": 509
-      }
-    },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Ressourcen/Basisarchitektur Bild.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738498902387,
-      "modifiedDate": 1738498902387,
-      "sizeInBytes": 230030,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Ressourcen/Harvard-Architektur Bild.png": {
@@ -3118,29 +2918,79 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Register+Memory-Architektur.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Ressourcen/Basisarchitektur Bild.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738498902387,
+      "modifiedDate": 1738498902387,
+      "sizeInBytes": 230030,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/von-Neumann-Architektur.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 47,
+      "wordCount": 173,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15666666666666668,
-      "characterCount": 568,
-      "nonWhitespaceCharacterCount": 507,
-      "readingTimeInMinutes": 0.17735849056603772,
-      "linkCount": 1,
-      "embedCount": 0,
+      "pageCount": 0.5766666666666667,
+      "characterCount": 1606,
+      "nonWhitespaceCharacterCount": 1362,
+      "readingTimeInMinutes": 0.6528301886792452,
+      "linkCount": 3,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498883813,
-      "modifiedDate": 1738832412301,
-      "sizeInBytes": 572,
+      "createdDate": 1738498883815,
+      "modifiedDate": 1738835852646,
+      "sizeInBytes": 1619,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.15666666666666668,
-        "wordCount": 47,
-        "characterCount": 568,
-        "nonWhitespaceCharacterCount": 507
+        "pageCount": 0.5766666666666667,
+        "wordCount": 173,
+        "characterCount": 1606,
+        "nonWhitespaceCharacterCount": 1362
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/RISC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 891,
+      "nonWhitespaceCharacterCount": 756,
+      "readingTimeInMinutes": 0.3169811320754717,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883812,
+      "modifiedDate": 1738498883813,
+      "sizeInBytes": 896,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.28,
+        "wordCount": 84,
+        "characterCount": 891,
+        "nonWhitespaceCharacterCount": 756
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Architektur/MIPS-Rechnerarchitektur.md": {
@@ -3168,6 +3018,56 @@
         "nonWhitespaceCharacterCount": 2788
       }
     },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Register-Memory-Architektur.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 62,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 598,
+      "nonWhitespaceCharacterCount": 509,
+      "readingTimeInMinutes": 0.2339622641509434,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883813,
+      "modifiedDate": 1738835852646,
+      "sizeInBytes": 604,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.20666666666666667,
+        "wordCount": 62,
+        "characterCount": 598,
+        "nonWhitespaceCharacterCount": 509
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Register+Memory-Architektur.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 568,
+      "nonWhitespaceCharacterCount": 507,
+      "readingTimeInMinutes": 0.17735849056603772,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883813,
+      "modifiedDate": 1738832412301,
+      "sizeInBytes": 572,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15666666666666668,
+        "wordCount": 47,
+        "characterCount": 568,
+        "nonWhitespaceCharacterCount": 507
+      }
+    },
     "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Load-Store-Architektur.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3176,46 +3076,71 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.23666666666666666,
-      "characterCount": 680,
+      "characterCount": 696,
       "nonWhitespaceCharacterCount": 591,
       "readingTimeInMinutes": 0.2679245283018868,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738498883809,
-      "modifiedDate": 1738832376036,
-      "sizeInBytes": 686,
+      "modifiedDate": 1738835852645,
+      "sizeInBytes": 702,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.23666666666666666,
         "wordCount": 71,
-        "characterCount": 680,
+        "characterCount": 696,
         "nonWhitespaceCharacterCount": 591
       }
     },
-    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/CISC.md": {
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Harvard-Architektur.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 78,
+      "wordCount": 76,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.26,
-      "characterCount": 813,
-      "nonWhitespaceCharacterCount": 692,
-      "readingTimeInMinutes": 0.2943396226415094,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 727,
+      "nonWhitespaceCharacterCount": 622,
+      "readingTimeInMinutes": 0.28679245283018867,
       "linkCount": 2,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738498883805,
-      "modifiedDate": 1738498883805,
-      "sizeInBytes": 820,
+      "createdDate": 1738498883807,
+      "modifiedDate": 1738498883807,
+      "sizeInBytes": 733,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.26,
-        "wordCount": 78,
-        "characterCount": 813,
-        "nonWhitespaceCharacterCount": 692
+        "pageCount": 0.25333333333333335,
+        "wordCount": 76,
+        "characterCount": 727,
+        "nonWhitespaceCharacterCount": 622
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Instruction Sets.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 98,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 922,
+      "nonWhitespaceCharacterCount": 766,
+      "readingTimeInMinutes": 0.36981132075471695,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883807,
+      "modifiedDate": 1738498883807,
+      "sizeInBytes": 926,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32666666666666666,
+        "wordCount": 98,
+        "characterCount": 922,
+        "nonWhitespaceCharacterCount": 766
       }
     },
     "Hochschule/Module/Technische Informatik/Inhalte/Architektur/Basisarchitektur.md": {
@@ -3241,6 +3166,31 @@
         "wordCount": 109,
         "characterCount": 1097,
         "nonWhitespaceCharacterCount": 920
+      }
+    },
+    "Hochschule/Module/Technische Informatik/Inhalte/Architektur/CISC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 78,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26,
+      "characterCount": 813,
+      "nonWhitespaceCharacterCount": 692,
+      "readingTimeInMinutes": 0.2943396226415094,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738498883805,
+      "modifiedDate": 1738498883805,
+      "sizeInBytes": 820,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.26,
+        "wordCount": 78,
+        "characterCount": 813,
+        "nonWhitespaceCharacterCount": 692
       }
     },
     "Hochschule/Module/Systemadministration/Systemadministration.md": {
@@ -3283,13 +3233,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310408,
-      "modifiedDate": 1738835642790,
+      "modifiedDate": 1739436648607,
       "sizeInBytes": 979,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3233333333333333,
         "wordCount": 97,
-        "characterCount": 975,
+        "characterCount": 1016,
         "nonWhitespaceCharacterCount": 835
       }
     },
@@ -3301,71 +3251,71 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.06666666666666667,
-      "characterCount": 281,
+      "characterCount": 295,
       "nonWhitespaceCharacterCount": 245,
       "readingTimeInMinutes": 0.07547169811320754,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310502,
-      "modifiedDate": 1738835265828,
-      "sizeInBytes": 284,
+      "modifiedDate": 1738835852644,
+      "sizeInBytes": 298,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06666666666666667,
         "wordCount": 20,
-        "characterCount": 281,
+        "characterCount": 295,
         "nonWhitespaceCharacterCount": 245
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement.md": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/Zeitprotokoll.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 161,
+      "wordCount": 39,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5366666666666666,
-      "characterCount": 1597,
-      "nonWhitespaceCharacterCount": 1386,
-      "readingTimeInMinutes": 0.6075471698113207,
-      "linkCount": 14,
-      "embedCount": 0,
+      "pageCount": 0.13,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 320,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 1,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1737566310499,
-      "modifiedDate": 1737570141860,
-      "sizeInBytes": 1614,
+      "createdDate": 1737566310502,
+      "modifiedDate": 1737572996886,
+      "sizeInBytes": 374,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5366666666666666,
-        "wordCount": 161,
-        "characterCount": 1597,
-        "nonWhitespaceCharacterCount": 1386
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 369,
+        "nonWhitespaceCharacterCount": 320
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation.md": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/SK Pareto-Prinzip.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 56,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 706,
-      "nonWhitespaceCharacterCount": 579,
-      "readingTimeInMinutes": 0.21132075471698114,
-      "linkCount": 7,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 188,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737566310498,
-      "modifiedDate": 1737580128801,
-      "sizeInBytes": 711,
+      "createdDate": 1737566310502,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 230,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.18666666666666668,
-        "wordCount": 56,
-        "characterCount": 706,
-        "nonWhitespaceCharacterCount": 579
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 229,
+        "nonWhitespaceCharacterCount": 188
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/Pomodoro-Technik.md": {
@@ -3418,29 +3368,29 @@
         "nonWhitespaceCharacterCount": 476
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/Zeitprotokoll.md": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/60-20-20-Regel.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 39,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 369,
-      "nonWhitespaceCharacterCount": 320,
-      "readingTimeInMinutes": 0.1471698113207547,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 187,
+      "nonWhitespaceCharacterCount": 158,
+      "readingTimeInMinutes": 0.08679245283018867,
       "linkCount": 1,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737566310502,
-      "modifiedDate": 1737572996886,
-      "sizeInBytes": 374,
+      "createdDate": 1737566310499,
+      "modifiedDate": 1737573076296,
+      "sizeInBytes": 189,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.13,
-        "wordCount": 39,
-        "characterCount": 369,
-        "nonWhitespaceCharacterCount": 320
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 187,
+        "nonWhitespaceCharacterCount": 158
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/Eisenhower-Prinzip.md": {
@@ -3468,31 +3418,6 @@
         "nonWhitespaceCharacterCount": 349
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/SK Pareto-Prinzip.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 229,
-      "nonWhitespaceCharacterCount": 188,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310502,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 230,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 229,
-        "nonWhitespaceCharacterCount": 188
-      }
-    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/Alpen.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3518,104 +3443,29 @@
         "nonWhitespaceCharacterCount": 294
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement/60-20-20-Regel.md": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Zeit- und Selbstmanagement.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 161,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 187,
-      "nonWhitespaceCharacterCount": 158,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 1,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1597,
+      "nonWhitespaceCharacterCount": 1386,
+      "readingTimeInMinutes": 0.6075471698113207,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310499,
-      "modifiedDate": 1737573076296,
-      "sizeInBytes": 189,
+      "modifiedDate": 1737570141860,
+      "sizeInBytes": 1614,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 187,
-        "nonWhitespaceCharacterCount": 158
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 133,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.44333333333333336,
-      "characterCount": 1544,
-      "nonWhitespaceCharacterCount": 1297,
-      "readingTimeInMinutes": 0.5018867924528302,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310418,
-      "modifiedDate": 1737580128801,
-      "sizeInBytes": 1572,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.44333333333333336,
-        "wordCount": 133,
-        "characterCount": 1544,
-        "nonWhitespaceCharacterCount": 1297
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Schlüsselkompetenzen - Vorlesungsfolien.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 399,
-      "nonWhitespaceCharacterCount": 387,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310497,
-      "modifiedDate": 1737575020212,
-      "sizeInBytes": 400,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 399,
-        "nonWhitespaceCharacterCount": 387
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 18,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 286,
-      "nonWhitespaceCharacterCount": 251,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310409,
-      "modifiedDate": 1737570143926,
-      "sizeInBytes": 287,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06,
-        "wordCount": 18,
-        "characterCount": 286,
-        "nonWhitespaceCharacterCount": 251
+        "pageCount": 0.5366666666666666,
+        "wordCount": 161,
+        "characterCount": 1597,
+        "nonWhitespaceCharacterCount": 1386
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/SQ3R-Methode.md": {
@@ -3643,6 +3493,31 @@
         "nonWhitespaceCharacterCount": 489
       }
     },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Lineare Methode.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 180,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6,
+      "characterCount": 1462,
+      "nonWhitespaceCharacterCount": 1264,
+      "readingTimeInMinutes": 0.6792452830188679,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737579922291,
+      "modifiedDate": 1737580128803,
+      "sizeInBytes": 1476,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6,
+        "wordCount": 180,
+        "characterCount": 1462,
+        "nonWhitespaceCharacterCount": 1264
+      }
+    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Outline Methode.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3666,31 +3541,6 @@
         "wordCount": 324,
         "characterCount": 2881,
         "nonWhitespaceCharacterCount": 2484
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Kursorisches Lesen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 179,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5966666666666667,
-      "characterCount": 1317,
-      "nonWhitespaceCharacterCount": 1103,
-      "readingTimeInMinutes": 0.6754716981132075,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737579922290,
-      "modifiedDate": 1737580128803,
-      "sizeInBytes": 1325,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5966666666666667,
-        "wordCount": 179,
-        "characterCount": 1317,
-        "nonWhitespaceCharacterCount": 1103
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Orientierendes Lesen.md": {
@@ -3718,29 +3568,29 @@
         "nonWhitespaceCharacterCount": 943
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Lineare Methode.md": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Kursorisches Lesen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 180,
+      "wordCount": 179,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6,
-      "characterCount": 1462,
-      "nonWhitespaceCharacterCount": 1264,
-      "readingTimeInMinutes": 0.6792452830188679,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 1317,
+      "nonWhitespaceCharacterCount": 1103,
+      "readingTimeInMinutes": 0.6754716981132075,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737579922291,
+      "createdDate": 1737579922290,
       "modifiedDate": 1737580128803,
-      "sizeInBytes": 1476,
+      "sizeInBytes": 1325,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6,
-        "wordCount": 180,
-        "characterCount": 1462,
-        "nonWhitespaceCharacterCount": 1264
+        "pageCount": 0.5966666666666667,
+        "wordCount": 179,
+        "characterCount": 1317,
+        "nonWhitespaceCharacterCount": 1103
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation/Cornell Methode.md": {
@@ -3768,29 +3618,54 @@
         "nonWhitespaceCharacterCount": 2178
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Zeitprotokoll Beispiel.png": {
-      "isCountable": false,
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Studienorganisation.md": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 56,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 706,
+      "nonWhitespaceCharacterCount": 579,
+      "readingTimeInMinutes": 0.21132075471698114,
+      "linkCount": 7,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737566310497,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 192624,
+      "aliases": null,
+      "createdDate": 1737566310498,
+      "modifiedDate": 1737580128801,
+      "sizeInBytes": 711,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "noteCount": 1,
+        "pageCount": 0.18666666666666668,
+        "wordCount": 56,
+        "characterCount": 706,
+        "nonWhitespaceCharacterCount": 579
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Schlüsselkompetenzen - Vorlesungsfolien.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 399,
+      "nonWhitespaceCharacterCount": 387,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310497,
+      "modifiedDate": 1737575020212,
+      "sizeInBytes": 400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03,
+        "wordCount": 9,
+        "characterCount": 399,
+        "nonWhitespaceCharacterCount": 387
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V8_Pruefungsvorbereitung.pdf": {
@@ -3818,6 +3693,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Zeitprotokoll Beispiel.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737566310497,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 192624,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V7_Pruefungsvorbereitung.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3835,31 +3735,6 @@
       "createdDate": 1737566310488,
       "modifiedDate": 1737216021000,
       "sizeInBytes": 2100718,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V1_Studienorganisation.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737566310433,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 619599,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -3943,31 +3818,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V2_Studienorganisation.pdf": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737566310440,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 993239,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V3_Lernen.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -3993,7 +3843,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Eisenhower_Prinzip_Graph.png": {
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V1_Studienorganisation.pdf": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -4007,9 +3857,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737566310427,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 11770,
+      "createdDate": 1737566310433,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 619599,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -4043,329 +3893,104 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Zeitmanagement & Prokrastination.md": {
-      "isCountable": true,
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Modul_SK_WiSe24_25_V2_Studienorganisation.pdf": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 162,
-      "nonWhitespaceCharacterCount": 138,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310425,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 163,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 162,
-        "nonWhitespaceCharacterCount": 138
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Unrealistische Erwartungen & Druck.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 225,
-      "nonWhitespaceCharacterCount": 190,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310425,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 228,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 225,
-        "nonWhitespaceCharacterCount": 190
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Überforderung durch den Stoffumfang.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 223,
-      "nonWhitespaceCharacterCount": 190,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310426,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 228,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 223,
-        "nonWhitespaceCharacterCount": 190
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Prüfungsangst.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 277,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9233333333333333,
-      "characterCount": 2268,
-      "nonWhitespaceCharacterCount": 1884,
-      "readingTimeInMinutes": 1.0452830188679245,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310424,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 2305,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9233333333333333,
-        "wordCount": 277,
-        "characterCount": 2268,
-        "nonWhitespaceCharacterCount": 1884
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Schriftliche Prüfungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 869,
-      "nonWhitespaceCharacterCount": 707,
-      "readingTimeInMinutes": 0.42641509433962266,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310424,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 882,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.37666666666666665,
-        "wordCount": 113,
-        "characterCount": 869,
-        "nonWhitespaceCharacterCount": 707
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mündliche Prüfungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 52,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 483,
-      "nonWhitespaceCharacterCount": 403,
-      "readingTimeInMinutes": 0.19622641509433963,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310424,
-      "modifiedDate": 1737567239000,
-      "sizeInBytes": 491,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17333333333333334,
-        "wordCount": 52,
-        "characterCount": 483,
-        "nonWhitespaceCharacterCount": 403
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mangelnde Unterstützung & Ressourcen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 285,
-      "nonWhitespaceCharacterCount": 246,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310423,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 291,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 285,
-        "nonWhitespaceCharacterCount": 246
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Gesundheitliche Herausforderungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 171,
-      "nonWhitespaceCharacterCount": 148,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310422,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 173,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 171,
-        "nonWhitespaceCharacterCount": 148
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Lernblockaden.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 195,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.65,
-      "characterCount": 1781,
-      "nonWhitespaceCharacterCount": 1501,
-      "readingTimeInMinutes": 0.7358490566037735,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310423,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 1801,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.65,
-        "wordCount": 195,
-        "characterCount": 1781,
-        "nonWhitespaceCharacterCount": 1501
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fokus auf kurzfristigem Lernen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 164,
-      "nonWhitespaceCharacterCount": 139,
-      "readingTimeInMinutes": 0.06415094339622641,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310422,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 167,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.056666666666666664,
-        "wordCount": 17,
-        "characterCount": 164,
-        "nonWhitespaceCharacterCount": 139
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fehlende Struktur & Methoden.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 248,
-      "nonWhitespaceCharacterCount": 215,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310421,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 249,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08,
-        "wordCount": 24,
-        "characterCount": 248,
-        "nonWhitespaceCharacterCount": 215
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Ablenkungen & Konzentrationsprobleme.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 267,
-      "nonWhitespaceCharacterCount": 228,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310420,
-      "modifiedDate": 1737386326000,
-      "sizeInBytes": 272,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.1,
-        "wordCount": 30,
-        "characterCount": 267,
-        "nonWhitespaceCharacterCount": 228
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Technologische Herausforderungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 44,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 419,
-      "nonWhitespaceCharacterCount": 364,
-      "readingTimeInMinutes": 0.1660377358490566,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310417,
+      "aliases": [],
+      "createdDate": 1737566310440,
       "modifiedDate": 1737216021000,
-      "sizeInBytes": 423,
+      "sizeInBytes": 993239,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Ressourcen/Eisenhower_Prinzip_Graph.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737566310427,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 11770,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 133,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44333333333333336,
+      "characterCount": 1544,
+      "nonWhitespaceCharacterCount": 1297,
+      "readingTimeInMinutes": 0.5018867924528302,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310418,
+      "modifiedDate": 1737580128801,
+      "sizeInBytes": 1572,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.14666666666666667,
-        "wordCount": 44,
-        "characterCount": 419,
-        "nonWhitespaceCharacterCount": 364
+        "pageCount": 0.44333333333333336,
+        "wordCount": 133,
+        "characterCount": 1544,
+        "nonWhitespaceCharacterCount": 1297
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 286,
+      "nonWhitespaceCharacterCount": 251,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310409,
+      "modifiedDate": 1737570143926,
+      "sizeInBytes": 287,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 286,
+        "nonWhitespaceCharacterCount": 251
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/WOOP - Methode.md": {
@@ -4391,6 +4016,56 @@
         "wordCount": 158,
         "characterCount": 1261,
         "nonWhitespaceCharacterCount": 1034
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Sprachlich und kulturelle Herausforderungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 252,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310417,
+      "modifiedDate": 1737567210000,
+      "sizeInBytes": 291,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 287,
+        "nonWhitespaceCharacterCount": 252
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Technologische Herausforderungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 44,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 419,
+      "nonWhitespaceCharacterCount": 364,
+      "readingTimeInMinutes": 0.1660377358490566,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310417,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 423,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14666666666666667,
+        "wordCount": 44,
+        "characterCount": 419,
+        "nonWhitespaceCharacterCount": 364
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Soziale und Umgebungsbedingte Herausforderungen.md": {
@@ -4468,31 +4143,6 @@
         "nonWhitespaceCharacterCount": 865
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Sprachlich und kulturelle Herausforderungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 287,
-      "nonWhitespaceCharacterCount": 252,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310417,
-      "modifiedDate": 1737567210000,
-      "sizeInBytes": 291,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.09,
-        "wordCount": 27,
-        "characterCount": 287,
-        "nonWhitespaceCharacterCount": 252
-      }
-    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Organisatorische Herausforderungen.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4541,6 +4191,31 @@
         "wordCount": 49,
         "characterCount": 480,
         "nonWhitespaceCharacterCount": 420
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Methode Lerntagebuch.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 157,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 1539,
+      "nonWhitespaceCharacterCount": 1174,
+      "readingTimeInMinutes": 0.5924528301886792,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310414,
+      "modifiedDate": 1737567156000,
+      "sizeInBytes": 1555,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5233333333333333,
+        "wordCount": 157,
+        "characterCount": 1539,
+        "nonWhitespaceCharacterCount": 1174
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Kognitive Lernstrategien.md": {
@@ -4593,31 +4268,6 @@
         "nonWhitespaceCharacterCount": 381
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Methode Lerntagebuch.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 157,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1539,
-      "nonWhitespaceCharacterCount": 1174,
-      "readingTimeInMinutes": 0.5924528301886792,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310414,
-      "modifiedDate": 1737567156000,
-      "sizeInBytes": 1555,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5233333333333333,
-        "wordCount": 157,
-        "characterCount": 1539,
-        "nonWhitespaceCharacterCount": 1174
-      }
-    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Metakognitive Lernstrategien.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4668,56 +4318,6 @@
         "nonWhitespaceCharacterCount": 332
       }
     },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 303,
-      "nonWhitespaceCharacterCount": 266,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310411,
-      "modifiedDate": 1737572914832,
-      "sizeInBytes": 303,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 303,
-        "nonWhitespaceCharacterCount": 266
-      }
-    },
-    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Emotionale und Motivationale Herausforderungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 58,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.19333333333333333,
-      "characterCount": 478,
-      "nonWhitespaceCharacterCount": 416,
-      "readingTimeInMinutes": 0.2188679245283019,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310412,
-      "modifiedDate": 1737570135203,
-      "sizeInBytes": 483,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.19333333333333333,
-        "wordCount": 58,
-        "characterCount": 478,
-        "nonWhitespaceCharacterCount": 416
-      }
-    },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Definition selbstreguliertes Lernen.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4741,6 +4341,31 @@
         "wordCount": 66,
         "characterCount": 585,
         "nonWhitespaceCharacterCount": 502
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Drei Komponenten selbstregulierten Lernens.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 32,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 303,
+      "nonWhitespaceCharacterCount": 266,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310411,
+      "modifiedDate": 1737572914832,
+      "sizeInBytes": 303,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 303,
+        "nonWhitespaceCharacterCount": 266
       }
     },
     "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Definition Lernen.md": {
@@ -4768,6 +4393,331 @@
         "nonWhitespaceCharacterCount": 477
       }
     },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Lernen & Ressourcen/Emotionale und Motivationale Herausforderungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 478,
+      "nonWhitespaceCharacterCount": 416,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310412,
+      "modifiedDate": 1737570135203,
+      "sizeInBytes": 483,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19333333333333333,
+        "wordCount": 58,
+        "characterCount": 478,
+        "nonWhitespaceCharacterCount": 416
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Zeitmanagement & Prokrastination.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 162,
+      "nonWhitespaceCharacterCount": 138,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310425,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 163,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 162,
+        "nonWhitespaceCharacterCount": 138
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Überforderung durch den Stoffumfang.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 223,
+      "nonWhitespaceCharacterCount": 190,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310426,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 228,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 223,
+        "nonWhitespaceCharacterCount": 190
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Unrealistische Erwartungen & Druck.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 190,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310425,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 228,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 225,
+        "nonWhitespaceCharacterCount": 190
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Schriftliche Prüfungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 869,
+      "nonWhitespaceCharacterCount": 707,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310424,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 882,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 869,
+        "nonWhitespaceCharacterCount": 707
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mündliche Prüfungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 483,
+      "nonWhitespaceCharacterCount": 403,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310424,
+      "modifiedDate": 1737567239000,
+      "sizeInBytes": 491,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17333333333333334,
+        "wordCount": 52,
+        "characterCount": 483,
+        "nonWhitespaceCharacterCount": 403
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Prüfungsangst.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 277,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9233333333333333,
+      "characterCount": 2268,
+      "nonWhitespaceCharacterCount": 1884,
+      "readingTimeInMinutes": 1.0452830188679245,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310424,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 2305,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9233333333333333,
+        "wordCount": 277,
+        "characterCount": 2268,
+        "nonWhitespaceCharacterCount": 1884
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Lernblockaden.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 195,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.65,
+      "characterCount": 1781,
+      "nonWhitespaceCharacterCount": 1501,
+      "readingTimeInMinutes": 0.7358490566037735,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310423,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 1801,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.65,
+        "wordCount": 195,
+        "characterCount": 1781,
+        "nonWhitespaceCharacterCount": 1501
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Mangelnde Unterstützung & Ressourcen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 285,
+      "nonWhitespaceCharacterCount": 246,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310423,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 291,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 285,
+        "nonWhitespaceCharacterCount": 246
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Gesundheitliche Herausforderungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 148,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310422,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 173,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 171,
+        "nonWhitespaceCharacterCount": 148
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fehlende Struktur & Methoden.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 248,
+      "nonWhitespaceCharacterCount": 215,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310421,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 249,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 248,
+        "nonWhitespaceCharacterCount": 215
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Fokus auf kurzfristigem Lernen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 164,
+      "nonWhitespaceCharacterCount": 139,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310422,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 167,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 164,
+        "nonWhitespaceCharacterCount": 139
+      }
+    },
+    "Hochschule/Module/Schlüsselkompetenzen/Inhalte/Prüfungsvorbereitung und Selbstmotivation/Ablenkungen & Konzentrationsprobleme.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 267,
+      "nonWhitespaceCharacterCount": 228,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310420,
+      "modifiedDate": 1737386326000,
+      "sizeInBytes": 272,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 267,
+        "nonWhitespaceCharacterCount": 228
+      }
+    },
     "Hochschule/Module/Mathematische Grundlagen/Mathematische Grundlagen.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4776,15 +4726,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.09666666666666666,
-      "characterCount": 288,
+      "characterCount": 277,
       "nonWhitespaceCharacterCount": 247,
       "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310408,
-      "modifiedDate": 1737567201000,
-      "sizeInBytes": 290,
+      "modifiedDate": 1739459138994,
+      "sizeInBytes": 279,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.09666666666666666,
@@ -4816,131 +4766,6 @@
         "wordCount": 393,
         "characterCount": 3994,
         "nonWhitespaceCharacterCount": 2939
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Relationen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 43,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 440,
-      "nonWhitespaceCharacterCount": 376,
-      "readingTimeInMinutes": 0.16226415094339622,
-      "linkCount": 19,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310403,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 441,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.14333333333333334,
-        "wordCount": 43,
-        "characterCount": 440,
-        "nonWhitespaceCharacterCount": 376
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 82,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2733333333333333,
-      "characterCount": 810,
-      "nonWhitespaceCharacterCount": 705,
-      "readingTimeInMinutes": 0.30943396226415093,
-      "linkCount": 33,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310392,
-      "modifiedDate": 1738079257000,
-      "sizeInBytes": 820,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2733333333333333,
-        "wordCount": 82,
-        "characterCount": 810,
-        "nonWhitespaceCharacterCount": 705
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Folgen und Reihen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310392,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Integrale.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 126,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.42,
-      "characterCount": 1428,
-      "nonWhitespaceCharacterCount": 1227,
-      "readingTimeInMinutes": 0.47547169811320755,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310406,
-      "modifiedDate": 1737567201000,
-      "sizeInBytes": 1432,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.42,
-        "wordCount": 126,
-        "characterCount": 1428,
-        "nonWhitespaceCharacterCount": 1227
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Kurvendiskussion und Extremwerte.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 131,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.43666666666666665,
-      "characterCount": 1210,
-      "nonWhitespaceCharacterCount": 987,
-      "readingTimeInMinutes": 0.49433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310406,
-      "modifiedDate": 1737567201000,
-      "sizeInBytes": 1210,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.43666666666666665,
-        "wordCount": 131,
-        "characterCount": 1210,
-        "nonWhitespaceCharacterCount": 987
       }
     },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Ungleichungen.md": {
@@ -5018,6 +4843,31 @@
         "nonWhitespaceCharacterCount": 591
       }
     },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Kurvendiskussion und Extremwerte.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 1210,
+      "nonWhitespaceCharacterCount": 987,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310406,
+      "modifiedDate": 1737567201000,
+      "sizeInBytes": 1210,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43666666666666665,
+        "wordCount": 131,
+        "characterCount": 1210,
+        "nonWhitespaceCharacterCount": 987
+      }
+    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Abstandberechnungen Gerade & Punkt.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5041,6 +4891,31 @@
         "wordCount": 138,
         "characterCount": 1123,
         "nonWhitespaceCharacterCount": 901
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Integrale.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 126,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42,
+      "characterCount": 1428,
+      "nonWhitespaceCharacterCount": 1227,
+      "readingTimeInMinutes": 0.47547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310406,
+      "modifiedDate": 1737567201000,
+      "sizeInBytes": 1432,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.42,
+        "wordCount": 126,
+        "characterCount": 1428,
+        "nonWhitespaceCharacterCount": 1227
       }
     },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Schulmathematik/Ableitungen und Tangenten.md": {
@@ -5093,29 +4968,79 @@
         "nonWhitespaceCharacterCount": 79
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Komplexe Zahlen.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Relationen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 176,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 6,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 440,
+      "nonWhitespaceCharacterCount": 376,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 19,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310403,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 441,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14333333333333334,
+        "wordCount": 43,
+        "characterCount": 440,
+        "nonWhitespaceCharacterCount": 376
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 810,
+      "nonWhitespaceCharacterCount": 705,
+      "readingTimeInMinutes": 0.30943396226415093,
+      "linkCount": 33,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310392,
+      "modifiedDate": 1738079257000,
+      "sizeInBytes": 820,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2733333333333333,
+        "wordCount": 82,
+        "characterCount": 810,
+        "nonWhitespaceCharacterCount": 705
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Folgen und Reihen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737566310392,
       "modifiedDate": 1737216021000,
-      "sizeInBytes": 206,
+      "sizeInBytes": 0,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.08,
-        "wordCount": 24,
-        "characterCount": 206,
-        "nonWhitespaceCharacterCount": 176
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Überabzählbar.md": {
@@ -5143,7 +5068,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Vereinigung.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Wertebereich einer Abbildung.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5168,7 +5093,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Wertebereich einer Abbildung.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Vereinigung.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5268,31 +5193,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Teilmenge.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310401,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Surjektivität.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5318,7 +5218,32 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Supremum und Infinimum.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Teilmenge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310401,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Schnittmenge.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5343,32 +5268,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Minimum und Maximum.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310399,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Schnittmenge.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Supremum und Infinimum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5441,6 +5341,56 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Minimum und Maximum.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310399,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Mengen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 918,
+      "nonWhitespaceCharacterCount": 772,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310399,
+      "modifiedDate": 1737567201000,
+      "sizeInBytes": 922,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 918,
+        "nonWhitespaceCharacterCount": 772
       }
     },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Komposition.md": {
@@ -5518,56 +5468,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Mengen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 87,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29,
-      "characterCount": 918,
-      "nonWhitespaceCharacterCount": 772,
-      "readingTimeInMinutes": 0.3283018867924528,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310399,
-      "modifiedDate": 1737567201000,
-      "sizeInBytes": 922,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29,
-        "wordCount": 87,
-        "characterCount": 918,
-        "nonWhitespaceCharacterCount": 772
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Kartesisches Produkt.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310397,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Kardinalität.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5618,7 +5518,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Höchstens Abzählbar.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Kartesisches Produkt.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5632,32 +5532,7 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737566310396,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Gleichmächtig.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310395,
+      "createdDate": 1737566310397,
       "modifiedDate": 1737216021000,
       "sizeInBytes": 0,
       "sessionStart": {
@@ -5693,6 +5568,56 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Höchstens Abzählbar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310396,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Gleichheit von Mengen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310395,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Graph einer Abbildung.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5718,7 +5643,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Gleichheit von Mengen.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Gleichmächtig.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5768,7 +5693,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Distributivgesetz bei Mengen.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Differenz.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5793,7 +5718,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Differenz.md": {
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Mengen und Abbildungen/Distributivgesetz bei Mengen.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -5918,6 +5843,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Komplexe Zahlen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 176,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310392,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 206,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 206,
+        "nonWhitespaceCharacterCount": 176
+      }
+    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Exponentialfunktionen, Logarithmus.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5968,31 +5918,6 @@
         "nonWhitespaceCharacterCount": 276
       }
     },
-    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Algebraische Strukturen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 40,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 420,
-      "nonWhitespaceCharacterCount": 359,
-      "readingTimeInMinutes": 0.1509433962264151,
-      "linkCount": 17,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310389,
-      "modifiedDate": 1737216021000,
-      "sizeInBytes": 423,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13333333333333333,
-        "wordCount": 40,
-        "characterCount": 420,
-        "nonWhitespaceCharacterCount": 359
-      }
-    },
     "Hochschule/Module/Mathematische Grundlagen/Inhalte/Aussagenlogik.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6016,6 +5941,31 @@
         "wordCount": 37,
         "characterCount": 390,
         "nonWhitespaceCharacterCount": 334
+      }
+    },
+    "Hochschule/Module/Mathematische Grundlagen/Inhalte/Algebraische Strukturen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 40,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 420,
+      "nonWhitespaceCharacterCount": 359,
+      "readingTimeInMinutes": 0.1509433962264151,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310389,
+      "modifiedDate": 1737216021000,
+      "sizeInBytes": 423,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13333333333333333,
+        "wordCount": 40,
+        "characterCount": 420,
+        "nonWhitespaceCharacterCount": 359
       }
     },
     "Hochschule/Module/IT-Sicherheit/IT-Sicherheit.md": {
@@ -6043,6 +5993,31 @@
         "nonWhitespaceCharacterCount": 534
       }
     },
+    "Hochschule/Module/Einführung in die Programmierung/Einführung in die Programmierung.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 770,
+      "nonWhitespaceCharacterCount": 638,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 20,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310387,
+      "modifiedDate": 1739441315030,
+      "sizeInBytes": 774,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 402,
+        "nonWhitespaceCharacterCount": 343
+      }
+    },
     "Hochschule/Module/Grundlagen der Web-Technologien/Grundlagen der Web-Technologien.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6066,31 +6041,6 @@
         "wordCount": 21,
         "characterCount": 178,
         "nonWhitespaceCharacterCount": 144
-      }
-    },
-    "Hochschule/Module/Einführung in die Programmierung/Einführung in die Programmierung.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 41,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 402,
-      "nonWhitespaceCharacterCount": 343,
-      "readingTimeInMinutes": 0.15471698113207547,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737566310387,
-      "modifiedDate": 1737567201000,
-      "sizeInBytes": 405,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.13666666666666666,
-        "wordCount": 41,
-        "characterCount": 402,
-        "nonWhitespaceCharacterCount": 343
       }
     },
     "Hochschule/Module/CS, .NET & Unity/CS, .NET & Unity.md": {
@@ -6143,6 +6093,31 @@
         "nonWhitespaceCharacterCount": 267
       }
     },
+    "Hochschule/Thematiken/Mathe/Mathe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 33,
+      "nonWhitespaceCharacterCount": 25,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310513,
+      "modifiedDate": 1737567229000,
+      "sizeInBytes": 33,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 33,
+        "nonWhitespaceCharacterCount": 25
+      }
+    },
     "Hochschule/Inhaltsverzeichnis.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6166,6 +6141,81 @@
         "wordCount": 46,
         "characterCount": 534,
         "nonWhitespaceCharacterCount": 471
+      }
+    },
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 359,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1966666666666668,
+      "characterCount": 3376,
+      "nonWhitespaceCharacterCount": 2860,
+      "readingTimeInMinutes": 1.3547169811320754,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737566310514,
+      "modifiedDate": 1739459097608,
+      "sizeInBytes": 3395,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1966666666666668,
+        "wordCount": 359,
+        "characterCount": 3438,
+        "nonWhitespaceCharacterCount": 2860
+      }
+    },
+    "Hochschule/Module/Einführung in die Programmierung/Inhalte/Docstrings.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 95,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 936,
+      "nonWhitespaceCharacterCount": 814,
+      "readingTimeInMinutes": 0.3584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739438378352,
+      "modifiedDate": 1739441472880,
+      "sizeInBytes": 942,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Hochschule/Module/Einführung in die Programmierung/Inhalte/Einführung in die  Programmierung - Codeblocks.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 532,
+      "nonWhitespaceCharacterCount": 434,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739441315956,
+      "modifiedDate": 1739441381617,
+      "sizeInBytes": 535,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
