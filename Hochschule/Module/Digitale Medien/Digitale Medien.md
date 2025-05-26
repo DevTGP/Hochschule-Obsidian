@@ -2,14 +2,15 @@
 
 ---
 
-definition medien
-
-verarbeitungsbezogene und benutzerbezogene medien
-
-- modalität
-- kodierung
-- präsentation
-
-multimedia
-
-digitale medien
+> [!example] Inhalt
+>
+> 1. [[Digitale Medien - Allgemeines]]
+> 2. [[Digitalisierung]]
+> 3. [[Grundlagen Informationstheorie]]
+> 4. [[Kompression & Kodierungen]]
+> 5. [[Licht & Farbe]]
+> 6. [[Rastergrafik]]
+> 7. [[Vektorgrafik]]
+> 8. [[Video]]
+> 9. [[Audio]]
+> 10. [[Text]]
