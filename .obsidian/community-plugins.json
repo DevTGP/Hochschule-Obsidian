@@ -15,5 +15,8 @@
   "obsidian-excalidraw-plugin",
   "novel-word-count",
   "obsidian-vault-statistics-plugin",
-  "obsidian-charts"
+  "obsidian-charts",
+  "pdf-plus",
+  "obsidian-plugin-prettier",
+  "settings-search"
 ]

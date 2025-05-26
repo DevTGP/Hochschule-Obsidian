@@ -1,4 +1,7 @@
 {
+  "enabledCssSnippets": [
+    "latex"
+  ],
   "baseFontSizeAction": true,
-  "baseFontSize": 17
+  "baseFontSize": 26
 }

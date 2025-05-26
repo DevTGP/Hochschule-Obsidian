@@ -4,5 +4,13 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "autoConvertHtml": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "livePreview": false
 }

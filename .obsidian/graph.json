@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Digitale Medien",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -91,10 +91,10 @@
   "nodeSizeMultiplier": 1.4995625,
   "lineSizeMultiplier": 1.20352083333333,
   "collapse-forces": false,
-  "centerStrength": 0.645328719723183,
+  "centerStrength": 0.64968814968815,
   "repelStrength": 20,
-  "linkStrength": 1,
+  "linkStrength": 0.745322245322245,
   "linkDistance": 30,
-  "scale": 0.14030876828563169,
-  "close": true
+  "scale": 0.2202830291040736,
+  "close": false
 }
