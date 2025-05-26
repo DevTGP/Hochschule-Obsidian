@@ -1,8 +1,8 @@
 [[Modulübersicht]]
 
-1. [[Was ist ein Rechnersystem?]]
-2. [[Was ist ein Betriebssystem?]]
-	1. [[Welche Arten von Betriebssystemen gibt es?]]
+1. [[Was ist ein Rechnersystem]]
+2. [[Was ist ein Betriebssystem]]
+	1. [[Welche Arten von Betriebssystemen gibt es.]]
 3. [[Aufgaben eines Systemadministrators]]
 4. [[Rechneraufbau]]
 	1. [[Computer Hardware]]
