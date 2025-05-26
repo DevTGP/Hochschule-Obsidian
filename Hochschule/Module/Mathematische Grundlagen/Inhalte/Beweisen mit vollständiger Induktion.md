@@ -1,5 +1,7 @@
 [[Mathematische Grundlagen]]
 
+---
+
 1. [[Induktionsanfang]]
 2. [[Induktionsvoraussetzung]]
 3. [[Induktionsschritt]]

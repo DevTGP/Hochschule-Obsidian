@@ -1,5 +1,7 @@
 [[Mathematische Grundlagen]]
 
+---
+
 1. [[Gruppe]]
 	1. [[Verknüpfung]]
 	2. [[Neutrales Element]]

@@ -58,11 +58,11 @@ noch nicht existent, also am besten fragen oder nachschauen, wie ist im main Bra
 
 Nach letzten Messungen beinhaltet der Ordner:
 
-| Speicherplatz      | 74.34 MB |
+| Speicherplatz      | 74.39 MB |
 | ------------------ | -------: |
-| Dateien            |      940 |
+| Dateien            |      969 |
 | Angehängte Dateien |      551 |
-| Notizen            |      389 |
-| Verlinkungen       |      993 |
+| Notizen            |      418 |
+| Verlinkungen       |     1090 |
 | Wörter             |   34.241 |
-| Zeichen            |  436.964 |
+| Zeichen            |  411.136 |
