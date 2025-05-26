@@ -1,0 +1,1 @@
+![[Hochschule/Module/Lineare Algebra/Übung/LA_Aufgabensammlung_02.excalidraw.md#^area=6KZzfbgzb764UR0iR9Wmk|100%]]

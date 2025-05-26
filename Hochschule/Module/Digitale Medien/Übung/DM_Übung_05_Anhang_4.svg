@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink" version="1.1" width="1000" height="400">
+	<rect 
+		x="45" y="240" width="100" height="20" 
+		fill="rgb(211, 211, 211)" stroke="black"/>
+	<polygon 
+		fill="rgb(255, 85, 0)" 
+		points="50,150 150,150, 200,80 450,90 500,150 
+			700,180 700,250 685,265 75,265 35,225 35,165"/>
+	<polygon 
+		fill="rgb(135, 206, 250)" 
+		stroke="black" 
+		points="170,150 170,140 205,90 445,100 490,150"/>
+	<polyline 
+		stroke="black"
+		fill="none"
+		points="150,150 160,160 485,160 485,250 250,250 250,93"/>
+	<line
+		stroke="black"
+		x1="485" y1="160" x2="490" y2="150"/>
+	<line
+		stroke="black"
+		x1="700" y1="235" x2="665" y2="235"/>
+	<line
+		stroke="black"
+		x1="700" y1="240" x2="670" y2="240"/>
+	<line
+		stroke="black"
+		x1="700" y1="245" x2="675" y2="245"/>
+	<rect 
+		x="250" y="170" width="10" height="20" 
+		fill="rgb(211, 211, 211)" stroke="black"/>
+	<rect 
+		x="35" y="170" width="20" height="20" 
+		fill="rgb(139, 0, 0)" stroke="black"/>
+	<rect
+		x="660" y="200" width="40" height="20" 
+		fill="white" stroke="grey"/>
+	<rect
+		x="662" y="202" width="10" height="16" 
+		fill="rgb(255, 85, 0)" stroke="none"/>
+	<g 
+	id="rad"
+	transform="translate(160, 250)">
+		<circle 
+			fill="black"
+			cx="0" cy="0" r="50"/>
+		<circle 
+			fill="rgb(211, 211, 211)"
+			cx="0" cy="0" r="40"/>
+		<circle 
+			transform="rotate(75)"
+			fill="black"
+			cx="21" cy="0" r="14"/>
+		<circle 
+			transform="rotate(165)"
+			fill="black"
+			cx="21" cy="0" r="14"/>
+		<circle 
+			transform="rotate(255)"
+			fill="black"
+			cx="21" cy="0" r="14"/>
+		<circle 
+			transform="rotate(345)"
+			fill="black"
+			cx="21" cy="0" r="14"/>
+	</g>
+	<use
+		transform="translate(420, 0) rotate(30 150 210)"
+		xlink:href="#rad" x="0" y="0"/>
+</svg>
