@@ -9,10 +9,10 @@
 >
 > **Formel:**
 >
-> > $f_A \geq 2 \cdot f_{max}$
+> > $f_A > 2 \cdot f_{max}$
 
 > [!info]
 > Das Abtasttheorem garantiert, dass man ein kontinuierliches Signal exakt digitalisieren kann, **ohne Informationsverlust**, solange die Abtastung schnell genug erfolgt.
 
 > [!error] Folge bei Verletzung:
-> Wenn $f_{A} < 2 \cdot f_{max}$, tritt [[Unterabtastung / Aliasing]] auf → das rekonstruierte Signal enthält Verzerrungen oder falsche Frequenzen.
+> Wenn $f_{A} \leq 2 \cdot f_{max}$, tritt [[Unterabtastung oder Aliasing]] auf → das rekonstruierte Signal enthält Verzerrungen oder falsche Frequenzen.

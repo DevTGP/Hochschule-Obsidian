@@ -104,7 +104,8 @@ def berechneNeueClusterzentren(X, z, C):
     """
         Berechnet neue Clusterzentren basierend auf den aktuellen Zuweisungen.
         Parameter:            X (list of np.array): Liste der Datenpunkte            z (list of int): Clusterzuweisungen pro Datenpunkt            C: (list of np.array): Liste der Clusterzentren
-        Rückgabe:            neue_clusterzentren (list of np.array): neue Clusterzentren        """    neue_clusterzentren = []
+        Rückgabe:            neue_clusterzentren (list of np.array): neue Clusterzentren        """    
+	neue_clusterzentren = []
 
     for j in range(len(C)):
         c = 1 / len([n for i, n in enumerate(z) if j == n]) * np.sum([X[i] for i, n in enumerate(z) if j == n], axis=0)
